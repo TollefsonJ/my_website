@@ -1,0 +1,54 @@
+baseURL = "https://TollefsonJ.github.io/"
+languageCode = "en-us"
+title = "Jonathan Tollefson"
+theme="archie"
+copyright = ""
+pygmentsstyle = "monokai"
+pygmentscodefences = true
+pygmentscodefencesguesssyntax = true
+
+
+[markup]
+  defaultMarkdownHandler = "blackfriday"
+
+[markup.blackFriday]
+   angledQuotes = false
+   footnoteAnchorPrefix = ""
+   footnoteReturnLinkContents = ""
+   fractions = false
+   hrefTargetBlank = false
+   latexDashes = true
+   nofollowLinks = false
+   noreferrerLinks = false
+   plainIDAnchors = true
+   skipHTML = false
+   smartDashes = true
+   smartypants = true
+   smartypantsQuotesNBSP = false
+   taskLists = true
+
+
+[params]
+	mode="light"
+	featherIconsCDN=true
+	subtitle = "Minimal and Clean [blog theme for Hugo](https://github.com/athul/archie)"
+
+[[params.social]]
+name = "GitHub"
+icon = "github"
+url = "https://github.com/tollefsonj"
+
+[[menu.main]]
+name = "Recent Work"
+url = "/pubs"
+weight = 2
+
+[[menu.main]]
+name = "Research"
+url = "/research"
+weight = 3
+
+[[menu.main]]
+name = "About"
+url = "/About"
+weight = 4
