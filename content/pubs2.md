@@ -4,14 +4,14 @@ date: 2020-08-04T14:27:38-04:00
 draft: false
 ---
 ## Working papers
-[Tollefson, J. and Panikkar, B.]({{< ref donlin.md>}}) (2020) "Impact assessment, public engagement, and environmental knowledge production: Large mine permitting in Alaska’s Yukon-Kuskokwim Delta". Under review.
+Tollefson, J. and Panikkar, B. (2020) ["Impact assessment, public engagement, and environmental knowledge production: Large mine permitting in Alaska’s Yukon-Kuskokwim Delta"]({{< ref donlin.md>}}). Under review.
 
-[Frickel, S. and Tollefson, J.]({{< ref spindletop.md>}}) (2020) "Before Spindletop: New computational methods for excavating America’s forgotten fossil fuel industry". Under review.
+Frickel, S. and Tollefson, J. (2020) ["Before Spindletop: New computational methods for excavating America’s forgotten fossil fuel industry"]({{< ref spindletop.md>}}). Under review.
 
 ## Articles
-[Tollefson, J.]({{<ref fukushima_paper.md>}}) (2020) "Post-Fukushima discourse in the US press: Quantified knowledge, the technical object, and a panicked public". _Public Understanding of Science_.
+Tollefson, J. (2020) ["Post-Fukushima discourse in the US press: Quantified knowledge, the technical object, and a panicked public"]({{<ref fukushima_paper.md>}}). _Public Understanding of Science_. DOI: 10.1177/0963662520936186
 
-[Panikkar, B. and Tollefson, J.]({{<ref pebble.md>}}) (2018) "Land as material, knowledge and relationships: Resource extraction and subsistence imaginaries in Bristol Bay, Alaska". _Social Studies of Science_ 48(5): 715-739.
+Panikkar, B. and Tollefson, J. (2018) ["Land as material, knowledge and relationships: Resource extraction and subsistence imaginaries in Bristol Bay, Alaska"]({{<ref pebble.md>}}). _Social Studies of Science_ 48(5): 715-739. DOI: 10.1177/0306312718803453
 
 ## Presentations
 Tollefson, J. (2018) “Resource materiality and mining in Bristol Bay and the Yukon-Kuskokwim Delta, Alaska.” Presentation to _American Association of Geographers Annual Meeting._ New Orleans. April 10-14.

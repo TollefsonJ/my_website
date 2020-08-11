@@ -1,0 +1,29 @@
+<table class="table table-bordered table-hover table-condensed">
+<thead><tr><th title="Field #1">Source</th>
+<th title="Field #2">Completeness</th>
+<th title="Field #3">Access</th>
+<th title="Field #4">Map quality</th>
+<th title="Field #5">Download availability</th>
+</tr></thead>
+<tbody><tr>
+<td> ProQuest Sanborn Digital Ed.</td>
+<td> Most complete </td>
+<td> Many university and public libraries</td>
+<td> Low quality B+W line drawings</td>
+<td> No bulk download</td>
+</tr>
+<tr>
+<td> FIMo</td>
+<td> Most complete</td>
+<td> Some university and public libraries</td>
+<td> High quality color scans</td>
+<td> No bulk download</td>
+</tr>
+<tr>
+<td> Library of Congress </td>
+<td> Very complete</td>
+<td> Publicly available</td>
+<td> High quality color scans</td>
+<td> Simple bulk API</td>
+</tr>
+</tbody></table>

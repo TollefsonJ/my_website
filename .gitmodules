@@ -5,3 +5,9 @@
 	path = public
 	url = https://github.com/TollefsonJ/TollefsonJ.github.io.git
 	branch = master
+[submodule "themes/healy"]
+	path = themes/healy
+	url = https://github.com/kjhealy/kieranhealy.hugo.git
+[submodule "themes/even"]
+	path = themes/even
+	url = https://github.com/olOwOlo/hugo-theme-even.git
