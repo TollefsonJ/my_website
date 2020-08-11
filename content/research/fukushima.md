@@ -13,15 +13,7 @@ Figures below do blah blah
 <a href="/images/fukushima_local.jpg"><img src="/images/fukushima_local.jpg" style="float: left; width: 40%; margin-right: 3%; margin-bottom: 0.5em;">
 <p style="clear: both;">
 </a>
-\
-\
-\
+
 **Publications**
 
 [Tollefson, J.]({{<ref fukushima_paper.md>}}) (2020) "Post-Fukushima discourse in the US press: Quantified knowledge, the technical object, and a panicked public". _Public Understanding of Science_. DOI: 10.1177/0963662520936186
-
-\
-\
-[Back to projects]({{< ref research.md >}})
-\
-\
