@@ -8,6 +8,8 @@ draft: false
 
 [Frickel, S. and Tollefson, J.]({{< ref spindletop.md>}}) (2020) "Before Spindletop: New computational methods for excavating America’s forgotten fossil fuel industry". Under review.
 
+Tollefson, J., Restrepo, I., and Friskel, S. (2020) "A new method to identify former manufactured gas sites." In preparation.
+
 ## Articles
 [Tollefson, J.]({{<ref fukushima_paper.md>}}) (2020) "Post-Fukushima discourse in the US press: Quantified knowledge, the technical object, and a panicked public". _Public Understanding of Science_.
 

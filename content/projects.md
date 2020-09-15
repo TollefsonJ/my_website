@@ -3,7 +3,10 @@ title: "Research"
 date: 2020-08-04T14:27:38-04:00
 draft: false
 ---
-Like the rest of this website, this page isn't finished either.
+<MARQUEE STYLE="background-color:#ff66ff; border:solid">
+This page under construction
+</MARQUEE>
+
 
 ### Historical environmental geography of the Providence manufactured gas industry
 
@@ -18,7 +21,3 @@ Like the rest of this website, this page isn't finished either.
 
 
 [info]({{< ref fukushima.md >}})
-
-\
-\
-\
