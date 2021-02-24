@@ -6,12 +6,12 @@ draft: false
 
 # Detecting FMGP sites with OpenCV
 
-→[Frickel, S. and Tollefson, J. (2020, under review)]({{< ref spindletop.md>}})
+→[Frickel, S. and Tollefson, J. (2020, under review)]({{< ref EIF.md>}})
 
-→Tollefson, J., Restrepo, I., and Friskel, S. (2020, in preparation)
+→[Tollefson, J., Frickel, S. and Restrepo, I. (2020, in preparation)]({{< ref comp.md>}})
 
 
-This is a project to detect former manufactured gas plants (FMGP) using the Hough.Circles package in OpenCV. With the right Hough.Circles parameters, we are able to accurately identify FMGP sites in historic fire insurance maps. The Hough.Circles approach reduces the time required to manually code map images by up to 90%.
+This is a project to detect former manufactured gas plants (FMGP) using OpenCV freeware (http://opencv.org) to pass candidate map regions to a convolutional neural network (CNN) trained to identify the circular gasometer structures that signify MGPs and district gasometers. Our "Detect_MGP" approach reduces the time required to manually code map images by up to 90%, with a recall rate of approximately 85-90%.
 
 ### Introduction
 
@@ -26,7 +26,6 @@ In response to these limitations, we propose a new method to precisely identify 
 ### Sanborn maps
 Sanborn maps were published regularly starting in the late 19th century. Sanborn atlases cover most US cities with a population greater than about 6000 (Hatheway, 2012), and most larger cities were mapped and remapped at regular intervals to account for changes to the urban landscape. Atlases consist of multiple map volumes made up of several hundred pages representing just a few square blocks of city space. Today, map files are available for public use primarily via three database providers with different approaches to digitization, file storage, and access.
 
-
 | Source | Completeness | Access | Map quality | Download availability |
 |---      |----       |---    |---|---|
 | ProQuest Sanborn Digital Ed. | Most complete  | Many university and public libraries | Low quality B+W line drawings | No bulk download |
@@ -38,7 +37,15 @@ Library of Congress (LOC) maps are most amenable to large-scale map analysis for
 ProQuest's "Sanborn Digital Edition" and Fire Insurance Maps Online (FIMo) also host Sanborn map images. ProQuest maps are rendered as black and white line-drawings; they are widely available for multiple cities over multiple years, but suffer from low scan quality and frequent misprints. FIMo maps, like LOC map scans, are available in full color, but suffer from poor download resolution. The ProQuest and FIMo databases are marginally more complete than the LOC repository; neither database allows for bulk file downloads, however, severely limiting their utility for map analysis at a broad spatial and temporal scale. It is possible to partially automate the download process, using the CURL utility, by taking advantage of the fact that the ProQuest and Sanborn databases store map pages according to a predictable sequence of URLs. FIMo maps are stored in a sequence of logically-numbered JPG files with a common base URL, which allows us to download FIMo maps city-by-city or volume-by-volume. The ProQuest database instead iterates components of the URL path for each maps page, and stores map files as PDF documents with a single filename ("default.pdf"). The ProQuest database structure requires that we first generate a list of unique URLs based on a set of predictable parameters, which can automated for each map volume using a simple Python script. Even with the help of the CURL utility, however, ProQuest and FIMo maps are much less amenable to bulk analysis.
 
 ### Map analysis
-We use a simple Python script ("Detect_Circles") to analyze Sanborn map images for circular features that correspond with possible FMGP building outlines, using the Hough.Circles package in OpenCV (http://opencv.org). The Detect_Circles script (1) re-sizes images to a common resolution; (2) iterates the Hough.Circles package through multiple ranges of possible circle radii; (3) marks all circles that fall within a defined set of analysis parameters; and (4) outputs images with marked circles to an "output" directory for manual site coding.
+I'll now explain the full analysis pipeline. The figure below displays the Detect_MGP workflow, which consists of the following steps: (1) Acquiring digital Sanborn map scans in bulk using the Library of Congress download API; (2) Extracting regions of interest that correspond to circular features of a given radius by applying the Hough.Circles algorithm to Sanborn map images; (3) Resizing circular regions to 64 x 64 pixels and standardizing pixel values; (4) Classifying extracted regions as MGP or non-MGP features using a CNN classifier; (5) Post-processing MGP features to remove extreme values, based on the mean and standard deviation of image pixels; and (6) Returning full map pages for final visual inspection. The following sections outline each of these steps in detail.
+
+<a href="/mgp/detect_mgp/workflow.eps"><img src="/mgp/detect_mgp/workflow.jpg" style="float: left; width: 95%; margin-right: 3%; margin-bottom: 0.5em;">
+</a>
+
+### Data
+We processed 16,393 individual map pages through the Detect_MGP pipeline. We selected map data from Chicago, San Francisco, Portland, New Orleans, the New York City area, and the state of Rhode Island, with publication years ranging from {{circles.yearmin}} to {{circles.yearmax}}. Map data were selected to cover a range of publication years and geographic locations to account for variation in map style and the built environment. While Sanborn maps are remarkably consistent, several regional and temporal variations are noticeable, including minor changes in coloration and font between the earliest and latest map volumes we examined. The distribution of false-positive map features also varies slightly by region: San Francisco, for instance, includes a relatively high density of water towers and cisterns, while many smaller Rhode Island town were mapped using circular labels of a similar size to large gasometer structures. Aggregating map images from a diverse spatial and temporal sample allows us to input a wide array of circular map features into our CNN algorithm, increasing the overall generalizability of the Detect_MGP pipeline.
+
+
 
 See below for example input/output image pairs for ProQuest and LOC maps, respectively.
 

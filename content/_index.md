@@ -13,6 +13,15 @@ Get in touch via [email](mailto:jonathan_tollefson@brown.edu) or visit my [GitHu
 
 **Click the links to below to see what I'm working on**
 
-- [Spatial analysis of former manufactured gas sites]({{< ref fmgp_method.md >}})
-- [Political ecology of large mine permitting]({{< ref alaska.md >}})
-- [Technoscientific discourse and the Fukushima nuclear disaster]({{< ref fukushima.md >}})
+- [Spatial analysis of former manufactured gas sites]({{< ref fmgp_method.md >}})\
+Uses computational methods to identify legacy fossil fuel infrastructure in US cities.
+
+- [Political ecology of large mine permitting]({{< ref alaska.md >}})\
+Two linked projects on environmental knowledge production and local resistance to the proposed Pebble and Donlin mines in rural Alaska.
+
+- [Technoscience discourse and the Fukushima nuclear disaster]({{< ref fukushima.md >}})\
+Argues that post-Fukushima media discourse worked to rebuild trust in nuclear power and expertise in part by delegitimizing non-expert engagement with nuclear energy issues.
+
+<b>
+<img src="/global/IMG_1177-2.jpg" style="float: center; width:100%; margin-right: 3%; margin-bottom: 0.5em; opacity: 0.5">
+</b>

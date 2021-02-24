@@ -11,3 +11,5 @@ type: "about"
 </a>
 
 I'm a PhD student at the Brown University Department of Sociology. My current research draws on computational methods to build out a historical environmental geography of the manufactured gas industry. I've also done work on the political ecology and human geography of Northern resource extraction, nuclear discourse and public understanding of sociotechnical controversies, and the politics of environmental knowledge production in remote environmental impact assessment.
+
+I previously received an M.S. at the Rubenstein School of Environment and Natural Resources at the University of Vermont.

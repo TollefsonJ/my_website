@@ -7,6 +7,7 @@ draft: false
 This page under construction
 </MARQUEE>
 
+### Community gardens, manufacturing, and hazardous sites in Providence, RI
 
 ### Historical environmental geography of the Providence manufactured gas industry
 
@@ -18,6 +19,5 @@ This page under construction
 
 
 ### Technoscience discourse and the Fukushima nuclear disaster
-
 
 [info]({{< ref fukushima.md >}})

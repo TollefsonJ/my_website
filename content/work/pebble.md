@@ -1,4 +1,6 @@
-### Panikkar, B. and Tollefson, J. (2018) "Land as material, knowledge and relationships: Resource extraction and subsistence imaginaries in Bristol Bay, Alaska"
+### Land as material, knowledge and relationships: Resource extraction and subsistence imaginaries in Bristol Bay, Alaska
+
+Panikkar, B. and **Tollefson, J.**
 
 [*_Social Studies of Science_ 48(5)*](https://journals.sagepub.com/doi/full/10.1177/0306312718803453?casa_token=dzrMxRnHJscAAAAA%3A4N2hgFjml6fPvHBCfdJUWjLreqjOAW6j6euvEhchs1ui3_aWSqXwBGVack_XRkIpniamwAOzRxKZXg)  |  ([PDF](https://tollefsonj.github.io/publications/0306312718803453.pdf))
 

@@ -20,7 +20,7 @@ Maps below do blah blah
 
 **Publications**
 
-[Frickel, S. and Tollefson, J.]({{< ref spindletop.md>}}) (2020) "Before Spindletop: New computational methods for excavating America’s forgotten fossil fuel industry". Under review.
+[Frickel, S. and Tollefson, J.]({{< ref EIF.md>}}) (2020) "Before Spindletop: New computational methods for excavating America’s forgotten fossil fuel industry". Under review.
 
 \
 \

@@ -29,6 +29,12 @@ copyright = ""            # default: author.name ↓        # 默认为下面配
   filename = "sitemap.xml"
 
   [[menu.main]]
+  name = "Home"
+  url = "/"
+  type = "home"
+  weight = 1
+
+  [[menu.main]]
   name = "Recent Work"
   url = "/pubs"
   type = "work"
@@ -40,10 +46,11 @@ copyright = ""            # default: author.name ↓        # 默认为下面配
   type = "research"
   weight = 3
 
+
   [[menu.main]]
-  name = "About"
-  url = "/About"
-  type = "about"
+  name = "Maps"
+  url = "/Maps"
+  type = "maps"
   weight = 4
 
 
@@ -184,7 +191,7 @@ copyright = ""            # default: author.name ↓        # 默认为下面配
 #    d-facebook = "http://localhost:1313"
 #    e-linkedin = "http://localhost:1313"
 #    f-google = "http://localhost:1313"
-    g-github = "http://localhost:1313"
+    g-github = "https://github.com/TollefsonJ/"
 #    h-weibo = "http://localhost:1313"
 #    i-zhihu = "http://localhost:1313"
 #    j-douban = "http://localhost:1313"
