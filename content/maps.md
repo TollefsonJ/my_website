@@ -19,9 +19,18 @@ Data sources: [Thomas Marlow](https://github.com/tmarlow/unearthing-pvd/tree/mas
 
 ----------
 
+#### 2. Green space over time
 
+<fig>
+<iframe height="420" width="100%" frameborder="no" src="https://tollefsonj.shinyapps.io/parks_map/"> </iframe>
+<p style="clear: both;">
+</fig>
 
-#### 2. Manufactured gas infrastructure and neighborhood-level demographic data
+Data sources: [Thomas Marlow](https://github.com/tmarlow/unearthing-pvd/tree/master/data); [Unearthing Providence](https://publiclab.org/wiki/unearthing-pvd).
+
+----------
+
+#### 3. Manufactured gas infrastructure and neighborhood-level demographic data
 
 <fig>
 <img src="/images/ED_maps_faceted.jpg" style="float: center; width: 95%;  margin-bottom: 0.5em;">
@@ -34,7 +43,7 @@ Demographic data: [Logan et al, 2020](https://s4.ad.brown.edu/Projects/UTP2/Traj
 
 ----------
 
-#### 3. Manufactured gas infrastructure and flood risk
+#### 4. Manufactured gas infrastructure and flood risk
 <fig>
 <img src="/images/fmgp_flood_small.jpg" style="float: center; width: 40%;  margin-bottom: 0.5em; margin-right: 5%">
 <p style="clear: both;">
