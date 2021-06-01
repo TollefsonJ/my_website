@@ -38,13 +38,13 @@ copyright = ""            # default: author.name ↓        # 默认为下面配
   name = "Recent Work"
   url = "/pubs"
   type = "work"
-  weight = 2
-
-  [[menu.main]]
-  name = "Research"
-  url = "/projects"
-  type = "research"
   weight = 3
+
+#  [[menu.main]]
+#  name = "Research"
+#  url = "/projects"
+#  type = "research"
+#  weight = 3
 
 
   [[menu.main]]
@@ -55,10 +55,15 @@ copyright = ""            # default: author.name ↓        # 默认为下面配
 
   [[menu.main]]
   name = "CV"
-  url = "cv/index.html"
+  url = "/cv"
   type = "cv"
-  weight = 5
+  weight = 2
 
+  [[menu.main]]
+  name = "Contact"
+  url = "/contact"
+  type = "contact"
+  weight = 6
 
 [params]
   version = "4.x"           # Used to give a friendly message when you have an incompatible update
