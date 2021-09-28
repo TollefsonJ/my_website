@@ -6,9 +6,9 @@ draft: false
 
 # Detecting FMGP sites with OpenCV
 
-→[Frickel, S. and Tollefson, J. (2020, under review)]({{< ref EIF.md>}})
+→[Frickel, S. and Tollefson, J. (2021, in preparation]({{< ref EIF.md>}})
 
-→[Tollefson, J., Frickel, S. and Restrepo, I. (2020, in preparation)]({{< ref comp.md>}})
+→[Tollefson, J., Frickel, S. and Restrepo, I. (R+R at PLOS One)]({{< ref comp.md>}})
 
 
 This is a project to detect former manufactured gas plants (FMGP) using OpenCV freeware (http://opencv.org) to pass candidate map regions to a convolutional neural network (CNN) trained to identify the circular gasometer structures that signify MGPs and district gasometers. Our "Detect_MGP" approach reduces the time required to manually code map images by up to 90%, with a recall rate of approximately 85-90%.

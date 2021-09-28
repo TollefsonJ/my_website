@@ -9,6 +9,8 @@ draft: false
 
 I'm a PhD student at the Brown University Department of Sociology. My current research draws on computational methods to build out a historical environmental geography of the manufactured gas industry. I've also done work on the political ecology and human geography of Northern resource extraction, nuclear discourse and public understanding of sociotechnical controversies, and the politics of environmental knowledge production in remote environmental impact assessment.
 
+**[Check out our recent article in Urban Omnibus](https://urbanomnibus.net/2021/07/gasworks-lost-and-found/)**
+
 Get in touch via [email](mailto:jonathan_tollefson@brown.edu) or visit my [GitHub](https://github.com/TollefsonJ/).
 
 **Click the links to below to see what I'm working on**

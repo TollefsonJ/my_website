@@ -1,7 +1,7 @@
 ---
 title: "Historical environmental geography of the Providence manufactured gas industry"
 date: 2020-08-04T14:27:38-04:00
-draft: false
+draft: true
 ---
 
 # Historical environmental geography of the Providence manufactured gas industry

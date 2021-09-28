@@ -5,10 +5,8 @@ draft: false
 ---
 # Political ecology of large mine permitting
 
+→[Tollefson, J. and Panikkar, B. (Under review)]({{< ref ak_history.md>}})
 
-→[Tollefson, J. and Panikkar, B. (2020, under review)]({{< ref donlin.md>}})
+→[Tollefson, J. and Panikkar, B. (2020)]({{< ref donlin.md>}})
 
 →[Panikkar, B. and Tollefson, J. (2018)]({{<ref pebble.md>}})
-
-Something will go here.
-Also some pictures.

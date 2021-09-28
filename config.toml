@@ -29,16 +29,10 @@ copyright = ""            # default: author.name ↓        # 默认为下面配
   filename = "sitemap.xml"
 
   [[menu.main]]
-  name = "Home"
-  url = "/"
-  type = "home"
-  weight = 1
-
-  [[menu.main]]
-  name = "Recent Work"
+  name = "Recent_Work"
   url = "/pubs"
   type = "work"
-  weight = 3
+  weight = 1
 
 #  [[menu.main]]
 #  name = "Research"
@@ -51,13 +45,13 @@ copyright = ""            # default: author.name ↓        # 默认为下面配
   name = "Maps"
   url = "/Maps"
   type = "maps"
-  weight = 4
+  weight = 2
 
   [[menu.main]]
   name = "CV"
-  url = "/cv"
+  url = "/cv/index.html"
   type = "cv"
-  weight = 2
+  weight = 3
 
   [[menu.main]]
   name = "Contact"
