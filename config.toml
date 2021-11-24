@@ -29,7 +29,7 @@ copyright = ""            # default: author.name ↓        # 默认为下面配
   filename = "sitemap.xml"
 
   [[menu.main]]
-  name = "Recent_Work"
+  name = "Recent Work"
   url = "/pubs"
   type = "work"
   weight = 1
@@ -42,12 +42,6 @@ copyright = ""            # default: author.name ↓        # 默认为下面配
 
 
   [[menu.main]]
-  name = "Maps"
-  url = "/Maps"
-  type = "maps"
-  weight = 2
-
-  [[menu.main]]
   name = "CV"
   url = "/cv/index.html"
   type = "cv"
@@ -57,7 +51,7 @@ copyright = ""            # default: author.name ↓        # 默认为下面配
   name = "Contact"
   url = "/contact"
   type = "contact"
-  weight = 6
+  weight = 2
 
 [params]
   version = "4.x"           # Used to give a friendly message when you have an incompatible update
