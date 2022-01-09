@@ -6,6 +6,8 @@ draft: false
 # Working papers
 [**Tollefson, J.** and Panikkar, B.]({{< ref ak_history.md>}}) "Land use policy and land imaginaries in Alaska: The historical roots of contemporary environmental conflicts." Under review.
 
+**Tollefson, J**, et al. "Early childcare and education in a post-industrial landscape: Inequalities in exposure to active and relic manufacturing in metropolitan Providence, Rhode Island." Under review.
+
 [Frickel, S. and **Tollefson, J.**]({{< ref EIF.md>}}) "Environmental inequality formation in the 19th century." In preparation.
 
 **Tollefson, J.**. "Suburban development and agricultural land conversion: New architectures of environmental health inequality." In preparation.
