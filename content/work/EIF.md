@@ -1,3 +1,15 @@
+---
+title: NULL
+date: 2020-08-04T14:27:38-04:00
+draft: true
+---
+
+{{% center %}}
+-- [jonathan tollefson](/) --
+{{% /center %}}
+<br/>
+
+
 ### Environmental inequality formation in the 19th century.
 
 Frickel, S. and **Tollefson, J.**

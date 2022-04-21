@@ -2,6 +2,11 @@ baseURL = "https://TollefsonJ.github.io/"
 languageCode = "en"
 defaultContentLanguage = "en"                             # en / zh-cn / ... (This field determines which i18n file to use)
 title = "Jonathan Tollefson"
+
+# this is my google analytics ID linked to my account
+googleAnalytics = 'G-LET2FCN9RR'
+
+
 preserveTaxonomyNames = true
 enableRobotsTXT = true
 enableEmoji = true
@@ -17,41 +22,34 @@ pygmentsCodefencesGuessSyntax = true
 hasCJKLanguage = true     # has chinese/japanese/korean ? # 自动检测是否包含 中文\日文\韩文
 paginate = 5                                              # 首页每页显示的文章数
 disqusShortname = ""      # disqus_shortname
-googleAnalytics = ""      # UA-XXXXXXXX-X
+
 copyright = ""            # default: author.name ↓        # 默认为下面配置的author.name ↓
 
 [author]                  # essential                     # 必需
-  name = "Jonathan Tollefson"
+#  name = "Jonathan Tollefson"
 
 [sitemap]                 # essential                     # 必需
   changefreq = "weekly"
   priority = 0.5
   filename = "sitemap.xml"
 
-  [[menu.main]]
-  name = "Recent Work"
-  url = "/pubs"
-  type = "work"
-  weight = 1
-
 #  [[menu.main]]
-#  name = "Research"
-#  url = "/projects"
-#  type = "research"
+#  name = "Recent Work"
+#  url = "/pubs"
+#  type = "work"
+#  weight = 1
+#
+#  [[menu.main]]
+#  name = "CV"
+#  url = "/cv/index.html"
+#  type = "cv"
 #  weight = 3
-
-
-  [[menu.main]]
-  name = "CV"
-  url = "/cv/index.html"
-  type = "cv"
-  weight = 3
-
-  [[menu.main]]
-  name = "Contact"
-  url = "/contact"
-  type = "contact"
-  weight = 2
+#
+#  [[menu.main]]
+#  name = "Contact"
+#  url = "/contact"
+#  type = "contact"
+#  weight = 2
 
 [params]
   version = "4.x"           # Used to give a friendly message when you have an incompatible update
