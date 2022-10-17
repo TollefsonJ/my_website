@@ -14,7 +14,7 @@ type: "contact"
 
 **E** :: [jonathan_tollefson@brown.edu](mailto:jonathan_tollefson@brown.edu)
 
-**G** :: <a target="_blank" href="https://www.github.com/TollefsonJ">Check out my GitHub</a>
+**G** :: <a target="_blank" href="https://www.github.com/TollefsonJ">GitHub profile</a>
 
 **S** :: <a target="_blank" href="https://scholar.google.com/citations?user=cP9eCOMAAAAJ&hl=en&oi=ao">Google Scholar profile</a>
 

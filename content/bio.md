@@ -14,8 +14,10 @@ I'm a PhD student at the <a target="_blank" href="https://www.brown.edu/academic
 <br/>
 
 {{% center %}}
--- _Recent article in_ <a target="_blank" href="https://urbanomnibus.net/2021/07/gasworks-lost-and-found/">**Urban Omnibus**</a> --
+
+Recent work in [***Socius***]({{< ref MGI_prov.md>}}), [***Environmental Justice***]({{< ref ECE.md>}}), and <a target="_blank" href="https://urbanomnibus.net/2021/07/gasworks-lost-and-found/">***Urban Omnibus***</a>
 
 
--- _Recent methods article in_ <a target="_blank" href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0255507">**PLoS ONE**</a> --
+
+
 {{% /center %}}

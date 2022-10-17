@@ -1,6 +1,5 @@
 ---
 title: NULL
-date: 2020-08-04T14:27:38-04:00
 draft: false
 ---
 
@@ -13,19 +12,19 @@ draft: false
 </a>
 
 
-[1. bio](/bio): about me
+[1. **bio**: about me](/bio)
 
-[2. work](/pubs): recent publications
+[2. **work**: recent publications](/pubs)
 
-- [Socio-ecological city project](/work/pvd)
+- [***Socius** article*]({{< ref MGI_prov.md>}})
 
-- Method piece in <a target="_blank" href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0255507">PLoS ONE</a>
+- [***Environmental Justice** article*]({{< ref ECE.md>}})
 
-- Article in <a target="_blank" href="https://urbanomnibus.net/2021/07/gasworks-lost-and-found/">Urban Omnibus</a>
-
-
+- <a target="_blank" href="https://urbanomnibus.net/2021/07/gasworks-lost-and-found/">*Piece in **Urban Omnibus***</a>
 
 
-[3. contact](/contact): email, GitHub, address
 
-<a target="_blank" href="/cv/index.html">4. cv</a>: it's like a resume
+
+[3. **contact**: email, GitHub, address](/contact)
+
+<a target="_blank" href="/cv/index.html">4. **cv**: it's like a resume</a>
