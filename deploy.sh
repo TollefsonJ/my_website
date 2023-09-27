@@ -1,5 +1,7 @@
 #!/bin/sh
 
+# on windows, run anaconda as administrator, then "bash deploy.sh"
+
 # run using: ./deploy.sh "optional commit message"
 
 # If a command fails then the deploy stops
@@ -8,7 +10,7 @@ set -e
 printf "\033[0;32mDeploying updates to GitHub...\033[0m\n"
 
 # Build the project.
-hugo -t even # if using a theme, replace with `hugo -t <YOURTHEME>`
+hugo -t even # if using a theme, replace with `hugo -t <YOURTHEME>`  
 
 # Go To Public folder
 cd public

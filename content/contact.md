@@ -5,21 +5,38 @@ type: "contact"
 ---
 
 {{% center %}}
--- [jonathan tollefson](/) --
+\+ [jonathan tollefson](/) \+
 {{% /center %}}
 <br/>
 
-<a ><img src="/images/jump_small.gif" style="float: right; width: 30%; margin-right: 3%; margin-bottom: 0em;">
+<img src="/images/portrait.jpg" style="float: right; width: 40%; margin-left: 3%; margin-bottom: 0.5em;margin-top: 2em">
 </a>
 
-**E** :: [jonathan_tollefson@brown.edu](mailto:jonathan_tollefson@brown.edu)
 
-**G** :: <a target="_blank" href="https://www.github.com/TollefsonJ">GitHub profile</a>
+1 [**bio**](/)
 
-**S** :: <a target="_blank" href="https://scholar.google.com/citations?user=cP9eCOMAAAAJ&hl=en&oi=ao">Google Scholar profile</a>
+{{% include "/static/global/bio_snippet.md" %}}
 
-Website design inspired by <a target="_blank" href="https://brainwashed.com/godspeed/main.html">Godspeed</a>
 
-&nbsp;
 
-&nbsp;
+2 [**research, data, and methods**](/data)
+
+3 [**recent work**](/pubs)
+
+
+
+
+4 [**contact**](/)
+ 
+
+&nbsp; \+  e-mail: [jonathan_tollefson@brown.edu](mailto:jonathan_tollefson@brown.edu)
+
+&nbsp; \+ GitHub: <a target="_blank" href="https://www.github.com/TollefsonJ">TollefsonJ</a>
+
+&nbsp; \+ ORCiD: <a target="_blank" href="https://orcid.org/0000-0002-1392-5841">0000-0002-1392-5841</a>
+
+&nbsp; \+ I built this site with <a target="_blank" href="https://gohugo.io">Hugo</a>, inspired by <a target="_blank" href="https://brainwashed.com/godspeed/main.html">Godspeed</a>. So can you!
+
+
+
+5 <a target="_blank" href="https://tollefsonj.github.io/Tollefson_CV.pdf">**cv**</a>

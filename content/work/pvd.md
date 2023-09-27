@@ -4,7 +4,7 @@ draft: false
 ---
 
 {{% center %}}
--- [back to work](/pubs) --
+-- <a href="javascript:history.back()">back to previous page</a> --
 {{% /center %}}
 <br/>
 
@@ -25,7 +25,7 @@ This page presents collaborative work by the Community Engagement Core of the Br
 
 Data sources
 
-- [**Tollefson, J.**, Frickel, S. and Restrepo, MI. 2021](/work/comp)
+- <a target="_blank" href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0255507">**Tollefson, J.**, Frickel, S. and Restrepo, MI. 2021</a>
 - <a target="_blank" href="https://repository.library.brown.edu/studio/item/bdr:919360/">Bell et al. 2019</a>
 - <a target="_blank" href="https://repository.library.brown.edu/studio/item/bdr:841116/">Marlow, T. and Frickel, S. 2018</a>
 - Gonsalves, S. 2020
