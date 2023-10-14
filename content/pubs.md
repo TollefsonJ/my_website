@@ -74,13 +74,14 @@ Candipan, J. and **Tollefson, J.** (forthcoming) "Cities." Invited chapter for *
 
 
 
-**Tollefson, J.** “Environmental risk and the changing scale of urban inequality, 1880-1930.” In preparation.
+**Tollefson, J.** “Environmental risk and the changing scale of urban inequality, 1880-1930.” *Working paper, in preparation for submission to American Sociological Review.*
 
-**Tollefson, J.** “HOLC redlining as an environmental process.” Working paper available on request.
+**Tollefson, J.** “HOLC redlining as an environmental process.” *Working paper, in preparation for submission to Urban Studies.*
 
-**Tollefson, J.**, Frickel, S., Helgeson, J., and Gore, C. "From adaptation to resilience: The evolution of a field." In preparation.
+**Tollefson, J.**, Frickel, S., Helgeson, J., and Gore, C. "From adaptation to resilience: The evolution of a field." *Working paper, in preparation for submission to Environmental Research Letters.*
 
-**Tollefson, J.**, Frickel, S., Helgeson, J., and Gore, C. "The development and structure of community resilience planning research." In preparation.
+**Tollefson, J.**, Frickel, S., Helgeson, J., and Gore, C. "The development and structure of community resilience planning research." *Working paper, in preparation for submission to npj Natural 
+Hazards.*
 
 Burns, A. and **Tollefson, J.** "Inequality in the effects of pesticide exposure on infant health." *Working paper delivered at Population Association of America (New Orleans, LA. Apr. 12-15, 2023) and American Sociological Association (Philadelphia, PA. Aug. 17-21, 2023).*
 
