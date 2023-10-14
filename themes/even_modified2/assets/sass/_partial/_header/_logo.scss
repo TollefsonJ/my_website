@@ -1,0 +1,21 @@
+// ==============================
+// Logo
+// =============================
+
+.logo-wrapper {
+  float: $logo-float-setting;
+
+  .logo {
+    display: inline-block;
+    position: relative;
+    padding-top: $logo-padding-top;
+    font-size: $logo-font-size;
+    font-family: $logo-font-family;
+  }
+}
+
+@include max-screen() {
+  .logo-wrapper {
+    display: none;
+  }
+}
