@@ -80,8 +80,7 @@ Candipan, J. and **Tollefson, J.** (forthcoming) "Cities." Invited chapter for *
 
 **Tollefson, J.**, Frickel, S., Helgeson, J., and Gore, C. "From adaptation to resilience: The evolution of a field." *Working paper, in preparation for submission to Environmental Research Letters.*
 
-**Tollefson, J.**, Frickel, S., Helgeson, J., and Gore, C. "The development and structure of community resilience planning research." *Working paper, in preparation for submission to npj Natural 
-Hazards.*
+**Tollefson, J.**, Frickel, S., Helgeson, J., and Gore, C. "The development and structure of community resilience planning research." *Working paper, in preparation for submission to npj Natural Hazards.*
 
 Burns, A. and **Tollefson, J.** "Inequality in the effects of pesticide exposure on infant health." *Working paper delivered at Population Association of America (New Orleans, LA. Apr. 12-15, 2023) and American Sociological Association (Philadelphia, PA. Aug. 17-21, 2023).*
 
@@ -94,9 +93,9 @@ Burns, A. and **Tollefson, J.** "Inequality in the effects of pesticide exposure
 \+ public sociology \+
 {{% /center %}}
 
-**Tollefson, J.** (2023) Redlining and segregation in Providence, RI. Essay for <a target="_blank" href="https://dsl.richmond.edu/panorama/redlining/#text=intro">Mapping Inequality</a>. Forthcoming.
+**Tollefson, J.** (Forthcoming) Redlining and segregation in Providence, RI. Essay for *Mapping Inequality*. Richmond, VA: University of Richmond Digital Scholarship Lab.
 
-<a target="_blank" href="https://urbanomnibus.net/2021/07/gasworks-lost-and-found/">**Tollefson, J.** and Frickel, S.</a> (2021) "Gasworks, lost and found." *Urban Omnibus*.
+<a target="_blank" href="https://urbanomnibus.net/2021/07/gasworks-lost-and-found/">**Tollefson, J.** and Frickel, S.</a> (2021) "Gasworks, lost and found." *Urban Omnibus*. July 1.
 
 <a target="_blank" href="https://www.providencejournal.com/story/opinion/2016/04/02/jonathan-tollefson-and-michael-urso-black-lives-matter-at-st-patricks-day-parade/32030859007/">**Tollefson, J.** and Urso, M.</a> (2018) "Black Lives Matter at St. Patrick’s Day Parade." Op-ed in the *Providence Journal*. April 2.
 
