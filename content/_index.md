@@ -29,5 +29,5 @@ draft: false
 4 [**contact**](/contact)
 
 
-5 <a target="_blank" href="https://tollefsonj.github.io/Tollefson_CV.pdf">**cv**</a>
+5 <a target="_blank" href="https://jonathantollefson.com/Tollefson_CV.pdf">**cv**</a>
 
