@@ -10,4 +10,10 @@
 	url = https://github.com/kjhealy/kieranhealy.hugo.git
 [submodule "themes/even"]
 	path = themes/even
-	url = https://github.com/olOwOlo/hugo-theme-even.git
+	url = https://github.com/olOwOlo/hugo-theme-even
+[submodule "themes/evengit"]
+	path = themes/evengit
+	url = https://github.com/olOwOlo/hugo-theme-even
+[submodule "themes/even_modified"]
+	path = themes/even_modified
+	url = https://github.com/olOwOlo/hugo-theme-even
