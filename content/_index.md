@@ -20,7 +20,7 @@ draft: false
 {{% include "/static/global/bio_snippet.md" %}}
 
 
-2 [**research, data, and methods**](/data)
+2 [**research**](/data)
 
 3 [**recent work**](/pubs)
 
