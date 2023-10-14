@@ -1,7 +1,7 @@
 #put "Set-ExecutionPolicy -Scope Process -ExecutionPolicy Bypass" into powershell ot let me run commands
 
 #build site
-hugo -t even
+hugo -t even_modified
 
 # add files to git
 cd public
