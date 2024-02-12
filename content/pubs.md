@@ -77,7 +77,7 @@ Candipan, J. and **Tollefson, J.** (forthcoming) "Cities." Invited chapter for *
 **Tollefson, J.** “Environmental risk and the changing scale of urban inequality, 1880-1930.” *Working paper.*
 - **Honorable mention**: 2024 Candace Rogers Award, Eastern Sociological Society
 
-**Tollefson, J.**, Frickel, S., Helgeson, J., and Gore, C. "The development and structure of community resilience planning research." *Under submission.*
+**Tollefson, J.**, Frickel, S., Helgeson, J., and Gore, C. "The development and structure of community resilience planning research." *Under review.*
 
 **Tollefson, J.** “HOLC redlining as an environmental process.” *Working paper.*
 
