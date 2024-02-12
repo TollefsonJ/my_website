@@ -49,7 +49,7 @@ draft: false
 
 Candipan, J. and **Tollefson, J.** (forthcoming) "Cities." Invited chapter for *The Oxford Handbook of the Sociology of Machine Learning (Borch, C. and Pardo-Guerra, J.P., eds.).*
 
-<a target="_blank" href="https://journals.sagepub.com/doi/10.1177/15356841231152616">**Tollefson, J.**, Frickel, S., Gonsalves, S., and Marlow, T.</a> (2023) "Parks, people and pollution: A relational study of socioenvironmental succession." _City & Community_ (online first, forthcoming in print).
+<a target="_blank" href="https://journals.sagepub.com/doi/10.1177/15356841231152616">**Tollefson, J.**, Frickel, S., Gonsalves, S., and Marlow, T.</a> (2023) "Parks, people and pollution: A relational study of socioenvironmental succession." _City & Community_ (special issue: _Environmentalizing Urban Sociology_) 22(4): 286–307.
 
 <a target="_blank" href="https://www.liebertpub.com/doi/10.1089/env.2021.0121">**Tollefson, J.**, Frickel, S., Gonsalves, S., Marlow, T., Sucsy, R., Byrns, M., and Orpen-Tuz, M.</a> (2023) "Early childcare and education in a post-industrial landscape: Inequalities in exposure to active and relic manufacturing in metropolitan Providence, Rhode Island." _Environmental Justice_ 16(4): 309-320.
 
@@ -94,7 +94,8 @@ Burns, A. and **Tollefson, J.** "Inequality in the effects of pesticide exposure
 \+ public sociology \+
 {{% /center %}}
 
-**Tollefson, J.** (Forthcoming) Redlining and segregation in Providence, RI. Essay for *Mapping Inequality*. Richmond, VA: University of Richmond Digital Scholarship Lab.
+<a target="_blank" href="https://dsl.richmond.edu/panorama/redlining/map/RI/Providence/context">**Tollefson, J.**</a> (2023) Redlining and segregation in Providence, RI. Essay for *Mapping Inequality*. Richmond, VA: University of Richmond Digital Scholarship Lab.
+
 
 <a target="_blank" href="https://urbanomnibus.net/2021/07/gasworks-lost-and-found/">**Tollefson, J.** and Frickel, S.</a> (2021) "Gasworks, lost and found." *Urban Omnibus*. July 1.
 
