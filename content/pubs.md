@@ -47,7 +47,7 @@ draft: false
 \+ publications \+
 {{% /center %}}
 
-Candipan, J. and **Tollefson, J.** (forthcoming) "Cities." Invited chapter for *The Oxford Handbook of the Sociology of Machine Learning (Borch, C. and Pardo-Guerra, J.P., eds.).*
+Candipan, J. and **Tollefson, J.** (forthcoming) "Machine learning and large-scale data for understanding urban inequality." Invited chapter for *The Oxford Handbook of the Sociology of Machine Learning (Borch, C. and Pardo-Guerra, J.P., eds.).*
 
 <a target="_blank" href="https://journals.sagepub.com/doi/10.1177/15356841231152616">**Tollefson, J.**, Frickel, S., Gonsalves, S., and Marlow, T.</a> (2023) "Parks, people and pollution: A relational study of socioenvironmental succession." _City & Community_ (special issue: _Environmentalizing Urban Sociology_) 22(4): 286–307.
 
