@@ -56,10 +56,10 @@ Candipan, J. and **Tollefson, J.** (forthcoming) "Machine learning and large-sca
 <a target="_blank" href="https://journals.sagepub.com/doi/10.1177/23780231221127541">Frickel, S. and **Tollefson, J.**</a> (2022) "When environmental inequality racialized: Historical evidence from Providence, Rhode Island." _Socius_ 8:1-14.
 
 <a target="_blank" href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0255507">**Tollefson, J.**, Frickel, S. and Restrepo, MI.</a> (2021) "Feature extraction and machine learning techniques for identifying historic urban environmental hazards." _PLoS ONE_ 16(8): e0255507.
-- **Finalist**: 2022 John Odland Award, American Association of Geographers Spatial Analysis and Modeling Group
+- **Finalist**: 2022 John Odland Award, American Association of Geographers, Spatial Analysis and Modeling Group
 
 <a target="_blank" href="https://journals.uair.arizona.edu/index.php/JPE/article/view/23828">**Tollefson, J.** and Panikkar, B.</a> (2020) "Impact assessment, public engagement, and environmental knowledge production: Large mine permitting in Alaska’s Yukon-Kuskokwim Delta." _Journal of Political Ecology_ 27(1): 1166-1188.
-- **Awarded**: 2021 Graduate Student Paper Award, Rural Sociological Society NRRIG
+- **Awarded**: 2021 Graduate Student Paper Award, Rural Sociological Society, Natural Resources RIG
 
 <a target="_blank" href="https://journals.sagepub.com/doi/full/10.1177/0963662520936186?casa_token=U90UE5iANX0AAAAA%3ASB_BL79FhIZIUBCcSE7WVJXnsEvJLeDmsBo9ZIiRPl4oSPXVSsGIkrp3N6TGrEwG005plZdjFOEsoQ">**Tollefson, J.**</a> (2020) "Post-Fukushima discourse in the US press: Quantified knowledge, the technical object, and a panicked public." _Public Understanding of Science_ 29(7): 670-687.
 
@@ -74,8 +74,11 @@ Candipan, J. and **Tollefson, J.** (forthcoming) "Machine learning and large-sca
 
 
 
-**Tollefson, J.** “Environmental risk and the changing scale of urban inequality, 1880-1930.” *Working paper.*
+**Tollefson, J.** “Environmental risk and the reorganization of urban inequality in the late 19th and early 20th century.” *Working paper.*
+- **Awarded**: 2023 IPUMS USA Student Research Award
+- **Awarded**: 2024 Brent K. Marshall Award, Society for the Study of Social Problems, Environment and Technology Division
 - **Honorable mention**: 2024 Candace Rogers Award, Eastern Sociological Society
+- **Awarded**: 2024 Graduate Student Paper Prize, Spatial Structures in the Social Sciences, Brown University
 
 **Tollefson, J.**, Frickel, S., Helgeson, J., and Gore, C. "The development and structure of community resilience planning research." *Under review.*
 
