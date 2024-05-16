@@ -5,7 +5,7 @@
 
 // ========== Color ========== //
 $black: #161616 !default;
-$white: #fffffa !default;         //because for some reason there is a white bar at the top of the screen....so i need to recode as black
+$white: #ffffff !default;         //because for some reason there is a white bar at the top of the screen....so i need to recode as black
 $light-gray: #C1C1C1 !default;
 $gray: #cacaca !default;
 $dark-gray: #696969 !default;
@@ -34,9 +34,10 @@ $menu-link-font-size: 20px;
 $global-serif-font-family: 'Courier New', 'Helvetica Neue', Arial, sans-serif !default;
 
 
-// Font family of the site.
+// Font family of the site. 'Courier New' for monospace. 
 //$global-font-family: 'Source Sans Pro', 'Helvetica Neue', Arial, sans-serif !default;
 $global-font-family: 'Courier New', 'Helvetica Neue', Arial, sans-serif !default;
+//$global-font-family: Garamond, sans-serif !default;
 
 
 $global-font-size: 14px;

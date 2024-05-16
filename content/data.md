@@ -20,7 +20,7 @@ draft: false
 
 
 
-2 [**research, data, and methods**](/)
+2 [**research**](/)
 
 My research examines the environmental dimensions of core sociological questions. I investigate inequality and social stratification as environmental processes and seek to understand how society-environment interactions shape the emergence and continuation of social, political, and spatial forms of inequality over time. 
 
@@ -28,19 +28,6 @@ My dissertation responds to a historical gap in the environmental and urban soci
 <a target="_blank" href="https://journals.sagepub.com/doi/10.1177/23780231221127541">this article</a>). My dissertation extends this research to a comparative sample of US cities, seeking to understand the impact of late-19th century industrial siting on long-term trajectories of urban inequality. Related strands of my research investigate complex interactions in the spatial dynamics of environmental privilege and risk over time, with a focus post-industrial and contemporary patterns of urban inequality (see  <a target="_blank" href="https://journals.sagepub.com/doi/10.1177/15356841231152616">this article</a> and <a target="_blank" href="https://www.liebertpub.com/doi/10.1089/env.2021.0121">this article</a>). 
 
 I also have experience in field interviews and mixed qualitative analysis. I conducted semi-structured interviews in Anchorage, Fairbanks, and rural villages in Alaska, and integrated these interview data with planning reports, court cases, and gray literature as part of two articles (<a target="_blank" href="https://journals.uair.arizona.edu/index.php/JPE/article/view/23828">article 1</a>, <a target="_blank" href="https://journals.sagepub.com/doi/abs/10.1177/0306312718803453">article 2</a>) on contested environmental knowledge production and anti-extraction movements. As part of a separate project, I drew on qualitative coding techniques to understand US media coverage of the sociotechnical controversies surrounding the 2011 Fukushima nuclear disaster in Japan (see <a target="_blank" href="https://journals.sagepub.com/doi/full/10.1177/0963662520936186?casa_token=U90UE5iANX0AAAAA%3ASB_BL79FhIZIUBCcSE7WVJXnsEvJLeDmsBo9ZIiRPl4oSPXVSsGIkrp3N6TGrEwG005plZdjFOEsoQ">this article</a>).
-
-I use a variety of tools in my research, including:
-
-&nbsp; \+  Machine learning approaches to data extraction
-
-&nbsp; \+  Data scraping and automation in *Python*
-
-&nbsp; \+  Computational text analysis in *Python* and *R*
-
-&nbsp; \+  Spatial analysis in *R*, *ArcGIS*, and *QGIS*
-
-&nbsp; \+  Qualitative analysis in *NVivo* and *HyperResearch*
-
 
 </br>
 
