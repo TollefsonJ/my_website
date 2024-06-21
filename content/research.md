@@ -20,7 +20,7 @@ draft: false
 
 
 
-2 [**research**](/)
+▼ [**research**](/)
 
 My research examines the environmental dimensions of core sociological questions. I investigate inequality and social stratification as environmental processes and seek to understand how society-environment interactions shape the emergence and continuation of social, political, and spatial forms of inequality over time. 
 
@@ -29,12 +29,12 @@ My dissertation responds to a historical gap in the environmental and urban soci
 
 I also have experience in field interviews and mixed qualitative analysis. I conducted semi-structured interviews in Anchorage, Fairbanks, and rural villages in Alaska, and integrated these interview data with planning reports, court cases, and gray literature as part of two articles (<a target="_blank" href="https://journals.uair.arizona.edu/index.php/JPE/article/view/23828">article 1</a>, <a target="_blank" href="https://journals.sagepub.com/doi/abs/10.1177/0306312718803453">article 2</a>) on contested environmental knowledge production and anti-extraction movements. As part of a separate project, I drew on qualitative coding techniques to understand US media coverage of the sociotechnical controversies surrounding the 2011 Fukushima nuclear disaster in Japan (see <a target="_blank" href="https://journals.sagepub.com/doi/full/10.1177/0963662520936186?casa_token=U90UE5iANX0AAAAA%3ASB_BL79FhIZIUBCcSE7WVJXnsEvJLeDmsBo9ZIiRPl4oSPXVSsGIkrp3N6TGrEwG005plZdjFOEsoQ">this article</a>).
 
-</br>
 
-3 [**recent work**](/pubs)
-
-
-4 [**contact**](/contact)
+{{% include "/static/global/links/recent_work_link.md" %}}
 
 
-5 <a target="_blank" href="https://jonathantollefson.com/Tollefson_CV.pdf">**cv**</a>
+{{% include "/static/global/links/contact_link.md" %}}
+
+{{% include "/static/global/links/cv_link.md" %}}
+
+

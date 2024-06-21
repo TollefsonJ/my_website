@@ -20,14 +20,15 @@ draft: false
 {{% include "/static/global/bio_snippet.md" %}}
 
 
-2 [**research, data, and methods**](/data)
-
-3 [**recent work**](/pubs)
+{{% include "/static/global/links/research_link.md" %}}
 
 
+{{% include "/static/global/links/recent_work_link.md" %}}
 
-4 [**contact**](/contact)
+
+{{% include "/static/global/links/contact_link.md" %}}
 
 
-5 <a target="_blank" href="https://jonathantollefson.com/Tollefson_CV.pdf">**cv**</a>
+
+{{% include "/static/global/links/cv_link.md" %}}
 

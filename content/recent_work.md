@@ -17,10 +17,10 @@ draft: false
 {{% include "/static/global/bio_snippet.md" %}}
 
 
-2 [**research, data, and methods**](/data)
+{{% include "/static/global/links/research_link.md" %}}
 
 
-3 [**recent work**](/)
+▼ [**recent work**](/)
 
 </br>
 
@@ -47,7 +47,7 @@ draft: false
 \+ publications \+
 {{% /center %}}
 
-Candipan, J. and **Tollefson, J.** (forthcoming) "Machine learning and large-scale data for understanding urban inequality." Invited chapter for *The Oxford Handbook of the Sociology of Machine Learning (Borch, C. and Pardo-Guerra, J.P., eds.).*
+<a target="_blank" href="https://doi.org/10.1093/oxfordhb/9780197653609.013.38">Candipan, J. and **Tollefson, J.**</a> (2024) "Machine learning and large-scale data for understanding urban inequality." Invited chapter for *The Oxford Handbook of the Sociology of Machine Learning (Borch, C. and Pardo-Guerra, J.P., eds.).*
 
 <a target="_blank" href="https://journals.sagepub.com/doi/10.1177/15356841231152616">**Tollefson, J.**, Frickel, S., Gonsalves, S., and Marlow, T.</a> (2023) "Parks, people and pollution: A relational study of socioenvironmental succession." _City & Community_ (special issue: _Environmentalizing Urban Sociology_) 22(4): 286–307.
 
@@ -107,7 +107,8 @@ Burns, A. and **Tollefson, J.** "Inequality in the effects of pesticide exposure
 
 <br/>
 
-4 [**contact**](/contact)
+{{% include "/static/global/links/contact_link.md" %}}
 
 
-5 <a target="_blank" href="https://jonathantollefson.com/Tollefson_CV.pdf">**cv**</a>
+
+{{% include "/static/global/links/cv_link.md" %}}
