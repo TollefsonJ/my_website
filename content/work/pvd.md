@@ -29,3 +29,4 @@ Data sources
 - <a target="_blank" href="https://repository.library.brown.edu/studio/item/bdr:919360/">Bell et al. 2019</a>
 - <a target="_blank" href="https://repository.library.brown.edu/studio/item/bdr:841116/">Marlow, T. and Frickel, S. 2018</a>
 - Gonsalves, S. 2020
+- <a target="_blank" href="https://dsl.richmond.edu/panorama/redlining">Nelson, R.K, Winling, L., et al 2023</a>

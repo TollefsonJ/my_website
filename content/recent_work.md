@@ -77,8 +77,10 @@ draft: false
 **Tollefson, J.** “Environmental risk and the reorganization of urban inequality in the late 19th and early 20th century.” *Working paper.*
 - **Awarded**: 2023 IPUMS USA Student Research Award
 - **Awarded**: 2024 Brent K. Marshall Award, Society for the Study of Social Problems, Environment and Technology Division
-- **Honorable mention**: 2024 Candace Rogers Award, Eastern Sociological Society
 - **Awarded**: 2024 Graduate Student Paper Prize, Spatial Structures in the Social Sciences, Brown University
+- **Honorable mention**: 2024 Candace Rogers Award, Eastern Sociological Society
+- **Honorable mention**: 2024 Graduate Student Paper Award, Environmental Sociology Section of the ASA
+
 
 **Tollefson, J.**, Frickel, S., Helgeson, J., and Gore, C. "The development and structure of community resilience planning research." *Under review.*
 
