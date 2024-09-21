@@ -4,7 +4,7 @@ defaultContentLanguage = "en"                             # en / zh-cn / ... (Th
 title = "Jonathan Tollefson"
 
 # this is my google analytics ID linked to my account
-googleAnalytics = 'G-LET2FCN9RR'
+googleAnalytics = "G-LET2FCN9RR"
 
 
 preserveTaxonomyNames = true
