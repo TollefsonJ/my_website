@@ -92,6 +92,14 @@
 
 
 
+<!-- pasted from google analytics instructions -->
+<!-- see also https://maupanelo.com/posts/add-google-analytics-to-your-hugo-site/ -->
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-LET2FCN9RR"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
 
-<!-- https://maupanelo.com/posts/add-google-analytics-to-your-hugo-site/ -->
-{{ template "_internal/google_analytics.html" . }}
+  gtag('config', 'G-LET2FCN9RR');
+</script>
