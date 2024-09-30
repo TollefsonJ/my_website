@@ -88,9 +88,10 @@ draft: false
 
 **Tollefson, J.**, Frickel, S., Helgeson, J., and Gore, C. "From adaptation to resilience: The evolution of a field." *Working paper.*
 
-Burns, A. and **Tollefson, J.** "Inequality in the effects of pesticide exposure on infant health." *Working paper delivered at Population Association of America (New Orleans, LA. Apr. 12-15, 2023) and American Sociological Association (Philadelphia, PA. Aug. 17-21, 2023).*
-
 **Tollefson, J.** "Suburban development and agricultural land conversion: New landscapes of environmental inequality." *Working paper delivered at Pacific Sociological Association (Sacramento, CA. Apr. 9, 2022).*
+
+
+
 
 
 <br/>
