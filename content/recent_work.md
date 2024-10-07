@@ -69,10 +69,18 @@ draft: false
 <br/>
 
 {{% center %}}
-\+ working papers \+
+\+ under review \+
 {{% /center %}}
 
+**Tollefson, J.**, Frickel, S., and Gore, C., and Helgeson, J. "Community resilience planning: What new methods reveal about the formation and transformation of a field." *Under review.*
 
+**Tollefson, J.**, Frickel, S., Helgeson, J., and Gore, C. "Adapting to adaptation: Conceptual development and field formation in community resilience planning." *Working paper.*
+
+<br/>
+
+{{% center %}}
+\+ working papers \+
+{{% /center %}}
 
 **Tollefson, J.** “Environmental risk and the reorganization of urban inequality in the late 19th and early 20th century.” *Working paper.*
 - **Awarded**: 2023 IPUMS USA Student Research Award
@@ -82,15 +90,9 @@ draft: false
 - **Honorable mention**: 2024 Graduate Student Paper Award, Environmental Sociology Section of the ASA
 
 
-**Tollefson, J.**, Frickel, S., Helgeson, J., and Gore, C. "The development and structure of community resilience planning research." *Under review.*
-
 **Tollefson, J.** “HOLC redlining as an environmental process.” *Working paper.*
 
-**Tollefson, J.**, Frickel, S., Helgeson, J., and Gore, C. "From adaptation to resilience: The evolution of a field." *Working paper.*
-
-**Tollefson, J.** "Suburban development and agricultural land conversion: New landscapes of environmental inequality." *Working paper delivered at Pacific Sociological Association (Sacramento, CA. Apr. 9, 2022).*
-
-
+**Tollefson, J.** "Suburban development and agricultural land conversion: New landscapes of environmental inequality." *Working paper.*
 
 
 
