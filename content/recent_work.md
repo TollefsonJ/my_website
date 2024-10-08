@@ -30,15 +30,6 @@ draft: false
 
 {{% /center %}}
 
-</br>
-
-
-{{% center %}}
-\+ ongoing projects \+
-{{% /center %}}
-
-
-**[Socio-ecological city project](/work/pvd).** Collaborative project collecting a wide array of longitudinal spatial data on industrial, environmental, and social change in the Providence, RI area.
 
 
 <br/>
@@ -74,7 +65,7 @@ draft: false
 
 **Tollefson, J.**, Frickel, S., and Gore, C., and Helgeson, J. "Community resilience planning: What new methods reveal about the formation and transformation of a field." *Under review.*
 
-**Tollefson, J.**, Frickel, S., Helgeson, J., and Gore, C. "Adapting to adaptation: Conceptual development and field formation in community resilience planning." *Working paper.*
+**Tollefson, J.**, Frickel, S., Helgeson, J., and Gore, C. "Adapting to adaptation: Conceptual development and field formation in community resilience planning." *Under review.*
 
 <br/>
 
@@ -108,6 +99,16 @@ draft: false
 <a target="_blank" href="https://urbanomnibus.net/2021/07/gasworks-lost-and-found/">**Tollefson, J.** and Frickel, S.</a> (2021) "Gasworks, lost and found." *Urban Omnibus*. July 1.
 
 <a target="_blank" href="https://www.providencejournal.com/story/opinion/2016/04/02/jonathan-tollefson-and-michael-urso-black-lives-matter-at-st-patricks-day-parade/32030859007/">**Tollefson, J.** and Urso, M.</a> (2018) "Black Lives Matter at St. Patrick’s Day Parade." Op-ed in the *Providence Journal*. April 2.
+
+</br>
+
+
+{{% center %}}
+\+ ongoing projects \+
+{{% /center %}}
+
+
+**[Socio-ecological city project](/work/pvd).** Collaborative project collecting a wide array of longitudinal spatial data on industrial, environmental, and social change in the Providence, RI area.
 
 
 <br/>
