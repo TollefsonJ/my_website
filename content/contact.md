@@ -34,7 +34,7 @@ type: "contact"
 
 &nbsp; \+ ORCiD: <a target="_blank" href="https://orcid.org/0000-0002-1392-5841">0000-0002-1392-5841</a>
 
-&nbsp; \+ I built this site with <a target="_blank" href="https://gohugo.io">Hugo</a>, inspired by <a target="_blank" href="https://brainwashed.com/godspeed/main.html">Godspeed</a>. So can you!
+&nbsp; \+ I built this site with <a target="_blank" href="https://gohugo.io">Hugo</a>, inspired by <a target="_blank" href="https://brainwashed.com/godspeed/main.html">Godspeed</a>. 
 
 
 
