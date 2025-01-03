@@ -3,6 +3,15 @@
 // ==============================
 // You can override the variables in _variables.scss to customize the style
 
+
+
+// how wide is the whole site
+$global-body-width: 800px;
+
+
+$global-font-size: 16px;
+
+
 // ========== Color ========== //
 $black: #161616 !default;
 $white: #ffffff !default;         //because for some reason there is a white bar at the top of the screen....so i need to recode as black
@@ -40,7 +49,6 @@ $global-font-family: 'Courier New', 'Helvetica Neue', Arial, sans-serif !default
 //$global-font-family: Garamond, sans-serif !default;
 
 
-$global-font-size: 14px;
 
 
 
@@ -123,8 +131,6 @@ $post-margin-top: 40px;
 
 
 
-// how wide is the whole site
-$global-body-width: 600px;
 
 // pad to edge of screen
 $global-container-padding: 0 20px !default;
