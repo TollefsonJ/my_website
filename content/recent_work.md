@@ -39,6 +39,10 @@ draft: false
 \+ publications \+
 {{% /center %}}
 
+**Tollefson, J.**, Frickel, S., and Gore, C., and Helgeson, J. (*Under review*) "Community resilience planning: What new methods reveal about the formation and transformation of a field." 
+
+**Tollefson, J.**, Frickel, S., Helgeson, J., and Gore, C. (*Under review*) "Adapting to adaptation: Conceptual development and field formation in community resilience planning." 
+
 <a target="_blank" href="https://doi.org/10.1093/oxfordhb/9780197653609.013.38">Candipan, J. and **Tollefson, J.**</a> (2024) "Machine learning and large-scale data for understanding urban inequality." Invited chapter for *The Oxford Handbook of the Sociology of Machine Learning (Borch, C. and Pardo-Guerra, J.P., eds.).*
 
 <a target="_blank" href="https://journals.sagepub.com/doi/10.1177/15356841231152616">**Tollefson, J.**, Frickel, S., Gonsalves, S., and Marlow, T.</a> (2023) "Parks, people and pollution: A relational study of socioenvironmental succession." _City & Community_ (special issue: _Environmentalizing Urban Sociology_) 22(4): 286–307.
@@ -57,16 +61,6 @@ draft: false
 
 <a target="_blank" href="https://journals.sagepub.com/doi/abs/10.1177/0306312718803453">Panikkar, B. and **Tollefson, J.**</a> (2018) "Land as material, knowledge and relationships: Resource extraction and subsistence imaginaries in Bristol Bay, Alaska." _Social Studies of Science_ 48(5): 715-739.
 
-
-<br/>
-
-{{% center %}}
-\+ under review \+
-{{% /center %}}
-
-**Tollefson, J.**, Frickel, S., and Gore, C., and Helgeson, J. "Community resilience planning: What new methods reveal about the formation and transformation of a field." *Under review.*
-
-**Tollefson, J.**, Frickel, S., Helgeson, J., and Gore, C. "Adapting to adaptation: Conceptual development and field formation in community resilience planning." *Under review.*
 
 <br/>
 
