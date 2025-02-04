@@ -1,6 +1,6 @@
 {{ if and .IsPage (ne .Params.comment false) -}}
   <!-- Disqus -->
-  {{- if .Site.DisqusShortname -}}
+  {{- if .Site.Config.Services.Disqus.Shortname -}}
     <div id="disqus_thread"></div>
     <script type="text/javascript">
     (function() {
@@ -9,7 +9,7 @@
       if (window.location.hostname === 'localhost') return;
 
       var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
-      var disqus_shortname = '{{ .Site.DisqusShortname }}';
+      var disqus_shortname = '{{ .Site.Config.Services.Disqus.Shortname }}';
       dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
       (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
     })();
@@ -100,11 +100,11 @@
   {{- if .Site.Params.valine.enable -}}
   <!-- id 将作为查询条件 -->
     {{- if .Site.Params.valine.visitor -}}
-	  <span id="{{ .RelPermalink | relURL }}" class="leancloud_visitors" data-flag-title="{{ .Title }}">
-		<span class="post-meta-item-text">文章阅读量 </span>
-		<span class="leancloud-visitors-count">0</span>
-		<p></p>
-	  </span>
+    <span id="{{ .RelPermalink | relURL }}" class="leancloud_visitors" data-flag-title="{{ .Title }}">
+    <span class="post-meta-item-text">文章阅读量 </span>
+    <span class="leancloud-visitors-count">0</span>
+    <p></p>
+    </span>
     {{- end }}
   <div id="vcomments"></div>
   <script src="//cdn1.lncld.net/static/js/3.0.4/av-min.js"></script>
