@@ -72,9 +72,11 @@ draft: false
 - **Honorable mention**: 2024 Graduate Student Paper Award, Environmental Sociology Section of the ASA
 - Featured in <a href="https://ibes.brown.edu/news/2024-08-05/tollefson-spotlight">IBES spotlight article</a>
 
-**Tollefson, J.**, Frickel, S., and Gore, C., and Helgeson, J. (*Revise and resubmit*) "Community resilience planning: What new methods reveal about the formation and transformation of a field." 
+**Tollefson, J.**, Frickel, S., and Gore, C., and Helgeson, J. "Community resilience planning: What new methods reveal about the formation and transformation of a field." *Revise and resubmit.*
 
-**Tollefson, J.**, Frickel, S., Helgeson, J., and Gore, C. (*Under review*) "Adapting to adaptation: Conceptual development and field formation in community resilience planning." 
+**Tollefson, J.**, Frickel, S., Helgeson, J., and Gore, C. "Adapting to adaptation: Conceptual development and field formation in community resilience planning." *Under review.*
+
+<br/>
 
 
 {{% center %}}

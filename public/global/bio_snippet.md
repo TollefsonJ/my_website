@@ -1,4 +1,4 @@
-I'm a PhD candidate at the Brown University Department of Sociology. My research uses computational, spatial, and quantitative methods to investigate core sociological questions, with a focus on long-term trajectories of social and environmental change in cities. I also have an enduring interest in political ecology and science and technology studies. Check out my work using the links below. Thanks for visiting!
+I am a PhD candidate at the Brown University Department of Sociology and the Institute at Brown for Environment and Society. My research uses computational, spatial, quantitative, and historical methods to investigate longstanding sociological questions, with a focus on the role of socio-environmental processes in persistent patterns of urban inequality. I also examine related questions from a science and society perspective, drawing on mixed methods approaches alongside computational and network analysis techniques. Explore what I'm working on by clicking the links below.
 
 
 
