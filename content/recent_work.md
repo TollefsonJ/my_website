@@ -39,10 +39,6 @@ draft: false
 \+ publications \+
 {{% /center %}}
 
-**Tollefson, J.**, Frickel, S., and Gore, C., and Helgeson, J. (*Under review*) "Community resilience planning: What new methods reveal about the formation and transformation of a field." 
-
-**Tollefson, J.**, Frickel, S., Helgeson, J., and Gore, C. (*Under review*) "Adapting to adaptation: Conceptual development and field formation in community resilience planning." 
-
 <a target="_blank" href="https://doi.org/10.1093/oxfordhb/9780197653609.013.38">Candipan, J. and **Tollefson, J.**</a> (2024) "Machine learning and large-scale data for understanding urban inequality." Invited chapter for *The Oxford Handbook of the Sociology of Machine Learning (Borch, C. and Pardo-Guerra, J.P., eds.).*
 
 <a target="_blank" href="https://journals.sagepub.com/doi/10.1177/15356841231152616">**Tollefson, J.**, Frickel, S., Gonsalves, S., and Marlow, T.</a> (2023) "Parks, people and pollution: A relational study of socioenvironmental succession." _City & Community_ (special issue: _Environmentalizing Urban Sociology_) 22(4): 286–307.
@@ -65,21 +61,35 @@ draft: false
 <br/>
 
 {{% center %}}
-\+ working papers \+
+\+ under review + submitted \+
 {{% /center %}}
 
-**Tollefson, J.** “Environmental risk and the reorganization of urban inequality in the late 19th and early 20th century.” *Working paper.*
+**Tollefson, J.** “The Racialization of Environmental Inequality in US Cities, 1880-1930.” *Under submission.*
 - **Awarded**: 2023 IPUMS USA Student Research Award
 - **Awarded**: 2024 Brent K. Marshall Award, Society for the Study of Social Problems, Environment and Technology Division
 - **Awarded**: 2024 Graduate Student Paper Prize, Spatial Structures in the Social Sciences, Brown University
 - **Honorable mention**: 2024 Candace Rogers Award, Eastern Sociological Society
 - **Honorable mention**: 2024 Graduate Student Paper Award, Environmental Sociology Section of the ASA
+- Featured in <a href="https://ibes.brown.edu/news/2024-08-05/tollefson-spotlight">IBES spotlight article</a>
+
+**Tollefson, J.**, Frickel, S., and Gore, C., and Helgeson, J. (*Revise and resubmit*) "Community resilience planning: What new methods reveal about the formation and transformation of a field." 
+
+**Tollefson, J.**, Frickel, S., Helgeson, J., and Gore, C. (*Under review*) "Adapting to adaptation: Conceptual development and field formation in community resilience planning." 
+
+
+{{% center %}}
+\+ manuscripts \+
+{{% /center %}}
+
 
 
 **Tollefson, J.** “HOLC redlining as an environmental process.” *Working paper.*
 
-**Tollefson, J.** "Suburban development and agricultural land conversion: New landscapes of environmental inequality." *Working paper.*
+**Tollefson, J.** Environmental roots of long-term trajectories of neighborhood inequality. *In progress.*
 
+**Tollefson, J.** Suburban development and agricultural land conversion: New landscapes of environmental health inequality. *Delivered at Pacific Sociological Association (Sacramento, CA. Apr. 7-9, 2022).*
+
+Burns, A. and **Tollefson, J.** Inequality in the effects of pesticide exposure on infant health. *Delivered at Population Association of America (New Orleans, LA. Apr. 12-15, 2023) and American Sociological Association (Philadelphia, PA. Aug. 17-21, 2023).*
 
 
 <br/>
