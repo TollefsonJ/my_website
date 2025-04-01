@@ -1,56 +1,56 @@
-<?xml-stylesheet type="text/xsl" href="https://TollefsonJ.github.io/sitemap.xsl"?>
+<?xml-stylesheet type="text/xsl" href="http://localhost:33983/sitemap.xsl"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://TollefsonJ.github.io/</loc>
+    <loc>http://localhost:33983/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://TollefsonJ.github.io/work/pvd/</loc>
+    <loc>http://localhost:33983/work/pvd/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://TollefsonJ.github.io/categories/</loc>
+    <loc>http://localhost:33983/categories/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://TollefsonJ.github.io/contact/</loc>
+    <loc>http://localhost:33983/contact/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://TollefsonJ.github.io/old/</loc>
+    <loc>http://localhost:33983/old/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://TollefsonJ.github.io/recent_work/</loc>
+    <loc>http://localhost:33983/recent_work/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://TollefsonJ.github.io/research/</loc>
+    <loc>http://localhost:33983/research/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://TollefsonJ.github.io/tags/</loc>
+    <loc>http://localhost:33983/tags/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://TollefsonJ.github.io/work/</loc>
+    <loc>http://localhost:33983/work/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
