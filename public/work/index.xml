@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Works on Jonathan Tollefson</title>
-    <link>http://localhost:33983/work/</link>
+    <link>https://TollefsonJ.github.io/work/</link>
     <description>Recent content in Works on Jonathan Tollefson</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <atom:link href="http://localhost:33983/work/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://TollefsonJ.github.io/work/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title></title>
-      <link>http://localhost:33983/work/pvd/</link>
+      <link>https://TollefsonJ.github.io/work/pvd/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:33983/work/pvd/</guid>
+      <guid>https://TollefsonJ.github.io/work/pvd/</guid>
       <description>&amp;ndash; back to previous page &amp;ndash;&#xA;Socio-ecological city project&#xA;PI: Scott Frickel. Collaborators: Summer Gonsalves, Thomas Marlow&#xA;This page presents collaborative work by the Community Engagement Core of the Brown University branch of the Superfund Research Program. We are collecting a wide array of longitudinal spatial data on the industrial, environmental, and social history of the Providence, RI area. Check out some of these data below (particularly manufacturing and hazardous business data, from Tom&amp;rsquo;s recent work and dissertation).</description>
     </item>
   </channel>
