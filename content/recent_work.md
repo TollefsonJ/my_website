@@ -61,10 +61,10 @@ draft: false
 <br/>
 
 {{% center %}}
-\+ under review + submitted \+
+\+ under review and submitted \+
 {{% /center %}}
 
-**Tollefson, J.** “The Racialization of Environmental Inequality in US Cities, 1880-1930.” *Under submission.*
+**Tollefson, J.** “The Racialization of Environmental Inequality in US Cities, 1880-1930.” *Under review.*
 - **Awarded**: 2023 IPUMS USA Student Research Award
 - **Awarded**: 2024 Brent K. Marshall Award, Society for the Study of Social Problems, Environment and Technology Division
 - **Awarded**: 2024 Graduate Student Paper Prize, Spatial Structures in the Social Sciences, Brown University
@@ -76,6 +76,8 @@ draft: false
 
 **Tollefson, J.**, Frickel, S., Helgeson, J., and Gore, C. "Adapting to adaptation: Conceptual development and field formation in community resilience planning." *Under review.*
 
+Demortain, D., Frickel, S., Beck, S., Gray, I., Grundmann, R., Hannud Abdo, A., Kinniburgh, F., Kitson, D., Matzner, N., Rea, C., **Tollefson, J.**, and Wetts, R. "Computational science and technology studies? Assembling STS theory-methods packages with computation." *Submitted.*
+
 <br/>
 
 
@@ -85,19 +87,20 @@ draft: false
 
 
 
-**Tollefson, J.** “HOLC redlining as an environmental process.” *Working paper.*
+**Tollefson, J.** "The environmental dimensions of HOLC redlining decisions." *Working paper.*
 
-**Tollefson, J.** Environmental roots of long-term trajectories of neighborhood inequality. *In progress.*
+**Tollefson, J.** "Industrial geography and urban inequality formation in the early 20th century." *Working paper.*
 
-**Tollefson, J.** Suburban development and agricultural land conversion: New landscapes of environmental health inequality. *Delivered at Pacific Sociological Association (Sacramento, CA. Apr. 7-9, 2022).*
+Frickel, S., Demortain, D., Beck, S., Gray, I., Grundmann, R., Hannud Abdo, A., Kinniburgh, F., Kitson, D., Matzner, N., Rea, C., **Tollefson, J.**, and Wetts, R. Environmental knowledge and politics. *In progress.*
 
-Burns, A. and **Tollefson, J.** Inequality in the effects of pesticide exposure on infant health. *Delivered at Population Association of America (New Orleans, LA. Apr. 12-15, 2023) and American Sociological Association (Philadelphia, PA. Aug. 17-21, 2023).*
+**Tollefson, J.** "Suburban development and agricultural land conversion: New landscapes of environmental health inequality." *In progress. Delivered at Pacific Sociological Association (Sacramento, CA. Apr. 7-9, 2022).*
+
 
 
 <br/>
 
 {{% center %}}
-\+ public sociology \+
+\+ public scholarship \+
 {{% /center %}}
 
 <a target="_blank" href="https://dsl.richmond.edu/panorama/redlining/map/RI/Providence/context">**Tollefson, J.**</a> (2023) Redlining and segregation in Providence, RI. Essay for *Mapping Inequality*. Richmond, VA: University of Richmond Digital Scholarship Lab.
