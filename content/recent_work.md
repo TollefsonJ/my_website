@@ -39,6 +39,8 @@ draft: false
 \+ publications \+
 {{% /center %}}
 
+**Tollefson, J.**, Frickel, S., and Gore, C., and Helgeson, J. (2025). "Community resilience planning: What new methods reveal about the formation and transformation of a field." Accepted for publication, *WIREs Climate Change.*
+
 <a target="_blank" href="https://doi.org/10.1093/oxfordhb/9780197653609.013.38">Candipan, J. and **Tollefson, J.**</a> (2024) "Machine learning and large-scale data for understanding urban inequality." Invited chapter for *The Oxford Handbook of the Sociology of Machine Learning (Borch, C. and Pardo-Guerra, J.P., eds.).*
 
 <a target="_blank" href="https://journals.sagepub.com/doi/10.1177/15356841231152616">**Tollefson, J.**, Frickel, S., Gonsalves, S., and Marlow, T.</a> (2023) "Parks, people and pollution: A relational study of socioenvironmental succession." _City & Community_ (special issue: _Environmentalizing Urban Sociology_) 22(4): 286–307.
@@ -64,7 +66,7 @@ draft: false
 \+ under review and submitted \+
 {{% /center %}}
 
-**Tollefson, J.** “The Racialization of Environmental Inequality in US Cities, 1880-1930.” *Under review.*
+**Tollefson, J.** “The Racialization of Environmental Inequality in US Cities, 1880-1930.” *R+R*
 - **Awarded**: 2023 IPUMS USA Student Research Award
 - **Awarded**: 2024 Brent K. Marshall Award, Society for the Study of Social Problems, Environment and Technology Division
 - **Awarded**: 2024 Graduate Student Paper Prize, Spatial Structures in the Social Sciences, Brown University
@@ -72,11 +74,9 @@ draft: false
 - **Honorable mention**: 2024 Graduate Student Paper Award, Environmental Sociology Section of the ASA
 - Featured in <a href="https://ibes.brown.edu/news/2024-08-05/tollefson-spotlight">IBES spotlight article</a>
 
-**Tollefson, J.**, Frickel, S., and Gore, C., and Helgeson, J. "Community resilience planning: What new methods reveal about the formation and transformation of a field." *Revise and resubmit.*
+**Tollefson, J.**, Frickel, S., Helgeson, J., and Gore, C. "Adapting to adaptation: Conceptual development and field formation in community resilience planning." *R+R*
 
-**Tollefson, J.**, Frickel, S., Helgeson, J., and Gore, C. "Adapting to adaptation: Conceptual development and field formation in community resilience planning." *Under review.*
-
-Demortain, D., Frickel, S., Beck, S., Gray, I., Grundmann, R., Hannud Abdo, A., Kinniburgh, F., Kitson, D., Matzner, N., Rea, C., **Tollefson, J.**, and Wetts, R. "Computational science and technology studies? Assembling STS theory-methods packages with computation." *Submitted.*
+Demortain, D., Frickel, S., Beck, S., Gray, I., Grundmann, R., Hannud Abdo, A., Kinniburgh, F., Kitson, D., Matzner, N., Rea, C., **Tollefson, J.**, and Wetts, R. "Computational science and technology studies? Assembling STS theory-methods packages with computation." *R+R*
 
 <br/>
 
