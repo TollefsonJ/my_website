@@ -39,7 +39,9 @@ draft: false
 \+ publications \+
 {{% /center %}}
 
-**Tollefson, J.**, Frickel, S., and Gore, C., and Helgeson, J. (2025). "Community resilience planning: What new methods reveal about the formation and transformation of a field." Accepted for publication, *WIREs Climate Change.*
+
+
+<a target="_blank" href="https://wires.onlinelibrary.wiley.com/doi/10.1002/wcc.70015">**Tollefson, J.**, Frickel, S., and Gore, C., and Helgeson, J.</a> (2025) "Community resilience planning: What new methods reveal about the formation and transformation of a field." *WIREs Climate Change* 16(4): e70015.
 
 <a target="_blank" href="https://doi.org/10.1093/oxfordhb/9780197653609.013.38">Candipan, J. and **Tollefson, J.**</a> (2024) "Machine learning and large-scale data for understanding urban inequality." Invited chapter for *The Oxford Handbook of the Sociology of Machine Learning (Borch, C. and Pardo-Guerra, J.P., eds.).*
 
