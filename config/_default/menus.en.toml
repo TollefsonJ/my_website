@@ -1,19 +1,22 @@
 [[main]]
 none = "none"
 
-[[main]]
-name = "Recent Work"
-pageRef = "recent_work"
-identifier = "QQYKq6dVVM"
-weight = 2
 
 [[main]]
 name = "Research"
 #pageRef = "research"
 weight = 1
 
+
 [[main]]
-name = "Environments and Neighborhood Formation"
+name = "Recent Work"
+pageRef = "recent_work"
+identifier = "QQYKq6dVVM"
+weight = 2
+
+
+[[main]]
+name = "Neighborhood Formation"
 pageRef = "cities_environments"
 parent = "Research"
 weight=1
