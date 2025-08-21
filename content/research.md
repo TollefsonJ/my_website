@@ -1,6 +1,7 @@
 ---
 title: "Research"
 #layout: "simple"
+draft: true
 ---
 
 ## Urban environments and neighborhood formation
