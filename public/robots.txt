@@ -1,2 +1,3 @@
 User-agent: *
-Sitemap: https://TollefsonJ.github.io/sitemap.xml
+Disallow: /
+Sitemap: http://localhost:43993/sitemap.xml

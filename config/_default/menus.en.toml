@@ -1,0 +1,46 @@
+[[main]]
+none = "none"
+
+[[main]]
+name = "Recent Work"
+pageRef = "recent_work"
+identifier = "QQYKq6dVVM"
+weight = 2
+
+[[main]]
+name = "Research"
+#pageRef = "research"
+weight = 1
+
+[[main]]
+name = "Environments and Neighborhood Formation"
+pageRef = "cities_environments"
+parent = "Research"
+weight=1
+
+[[main]]
+name = "Community Resilience"
+pageRef = "resilience"
+parent = "Research"
+weight=2
+
+[[main]]
+name = "Socio-Environmental Change in Cities"
+pageRef = "pvd"
+parent = "Research"
+weight=3
+
+#[[main]]
+#name = "Knowledge, Data, and Methods"
+#pageRef = "knowledge_data_methods"
+#parent = "Research"
+#weight=4
+
+[[main]]
+name = "CV"
+url = "https://jonathantollefson.com/Tollefson_CV.pdf"
+identifier = "sirRePSXc7"
+weight = 3
+
+[[footer]]
+none = "none"

@@ -2,38 +2,82 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Jonathan Tollefson</title>
-    <link>https://TollefsonJ.github.io/</link>
+    <link>http://localhost:43993/</link>
     <description>Recent content on Jonathan Tollefson</description>
-    <generator>Hugo</generator>
+    <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <atom:link href="https://TollefsonJ.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>© 2025 Jonathan Tollefson</copyright>
+    <atom:link href="http://localhost:43993/index.xml" rel="self" type="application/rss+xml" />
+    
     <item>
       <title></title>
-      <link>https://TollefsonJ.github.io/work/pvd/</link>
+      <link>http://localhost:43993/cities_environments/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://TollefsonJ.github.io/work/pvd/</guid>
-      <description>&amp;ndash; back to previous page &amp;ndash;&#xA;Socio-ecological city project&#xA;PI: Scott Frickel. Collaborators: Summer Gonsalves, Thomas Marlow&#xA;This page presents collaborative work by the Community Engagement Core of the Brown University branch of the Superfund Research Program. We are collecting a wide array of longitudinal spatial data on the industrial, environmental, and social history of the Providence, RI area. Check out some of these data below (particularly manufacturing and hazardous business data, from Tom&amp;rsquo;s recent work and dissertation).</description>
+      
+      <guid>http://localhost:43993/cities_environments/</guid>
+      <description>Environments and Neighborhood Formation # My primary research investigates the formation and development of racial-environmental inequality in cities, linking spatial, quantitative, and computational and machine learning methods to produce novel longitudinal data.</description>
+      
     </item>
+    
+    <item>
+      <title></title>
+      <link>http://localhost:43993/cv/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:43993/cv/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://localhost:43993/pvd/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:43993/pvd/</guid>
+      <description>Socio-Environmental Change # This area of my research focuses on localized processes of social-environmental change in cities over the course of the 20th century.</description>
+      
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://localhost:43993/recent_work/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:43993/recent_work/</guid>
+      <description>Recent work # Publications # Tollefson, J.</description>
+      
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://localhost:43993/resilience/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:43993/resilience/</guid>
+      <description>Community Resilience Research and Policy # I use novel computational text analysis approaches to map the knowledge networks that make up the climate and community resilience planning fields, as part of an ongoing collaboration with research economists at the Engineering Laboratory of the National Institute of Standards and Technology.</description>
+      
+    </item>
+    
     <item>
       <title>Contact</title>
-      <link>https://TollefsonJ.github.io/contact/</link>
+      <link>http://localhost:43993/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://TollefsonJ.github.io/contact/</guid>
-      <description>+ jonathan tollefson +&#xA;1 bio&#xA;I am an incoming Postdoctoral Fellow at the Mansueto Institute for Urban Innovation and the Department of Sociology at the University of Chicago. My research uses computational, spatial, quantitative, and historical methods to investigate pressing social-environmental questions, with a focus on inequality, urbanization, environmental justice, and climate change. I also examine related questions from a science and society perspective, drawing on mixed methods approaches alongside computational and network analysis techniques.</description>
+      
+      <guid>http://localhost:43993/contact/</guid>
+      <description>+ e-mail: jonathan_tollefson@brown.</description>
+      
     </item>
-    <item>
-      <title>Recent work</title>
-      <link>https://TollefsonJ.github.io/recent_work/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://TollefsonJ.github.io/recent_work/</guid>
-      <description>+ jonathan tollefson +&#xA;1 bio&#xA;I am an incoming Postdoctoral Fellow at the Mansueto Institute for Urban Innovation and the Department of Sociology at the University of Chicago. My research uses computational, spatial, quantitative, and historical methods to investigate pressing social-environmental questions, with a focus on inequality, urbanization, environmental justice, and climate change. I also examine related questions from a science and society perspective, drawing on mixed methods approaches alongside computational and network analysis techniques.</description>
-    </item>
+    
     <item>
       <title>Research</title>
-      <link>https://TollefsonJ.github.io/research/</link>
+      <link>http://localhost:43993/research/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://TollefsonJ.github.io/research/</guid>
-      <description>+ jonathan tollefson +&#xA;1 bio&#xA;I am an incoming Postdoctoral Fellow at the Mansueto Institute for Urban Innovation and the Department of Sociology at the University of Chicago. My research uses computational, spatial, quantitative, and historical methods to investigate pressing social-environmental questions, with a focus on inequality, urbanization, environmental justice, and climate change. I also examine related questions from a science and society perspective, drawing on mixed methods approaches alongside computational and network analysis techniques.</description>
+      
+      <guid>http://localhost:43993/research/</guid>
+      <description>Urban environments and neighborhood formation # My primary research investigates the formation and development of racial-environmental inequality in cities, linking spatial, quantitative, and computational and machine learning methods to produce novel longitudinal data.</description>
+      
     </item>
+    
   </channel>
 </rss>

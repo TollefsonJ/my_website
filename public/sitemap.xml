@@ -1,58 +1,45 @@
-<?xml-stylesheet type="text/xsl" href="https://TollefsonJ.github.io/sitemap.xsl"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+
   <url>
-    <loc>https://TollefsonJ.github.io/</loc>
-    <changefreq>weekly</changefreq>
+    <loc>http://localhost:43993/</loc>
+    <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
-  
   <url>
-    <loc>https://TollefsonJ.github.io/work/pvd/</loc>
-    <changefreq>weekly</changefreq>
+    <loc>http://localhost:43993/cities_environments/</loc>
+    <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
-  
   <url>
-    <loc>https://TollefsonJ.github.io/categories/</loc>
-    <changefreq>weekly</changefreq>
+    <loc>http://localhost:43993/cv/</loc>
+    <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
-  
   <url>
-    <loc>https://TollefsonJ.github.io/contact/</loc>
-    <changefreq>weekly</changefreq>
+    <loc>http://localhost:43993/pvd/</loc>
+    <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
-  
   <url>
-    <loc>https://TollefsonJ.github.io/old/</loc>
-    <changefreq>weekly</changefreq>
+    <loc>http://localhost:43993/recent_work/</loc>
+    <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
-  
   <url>
-    <loc>https://TollefsonJ.github.io/recent_work/</loc>
-    <changefreq>weekly</changefreq>
+    <loc>http://localhost:43993/resilience/</loc>
+    <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
-  
   <url>
-    <loc>https://TollefsonJ.github.io/research/</loc>
-    <changefreq>weekly</changefreq>
+    <loc>http://localhost:43993/contact/</loc>
+    <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
-  
   <url>
-    <loc>https://TollefsonJ.github.io/tags/</loc>
-    <changefreq>weekly</changefreq>
+    <loc>http://localhost:43993/research/</loc>
+    <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
-  
-  <url>
-    <loc>https://TollefsonJ.github.io/work/</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
 </urlset>

@@ -1,1 +1,0 @@
-3 [**recent work**](/recent_work)
