@@ -3,6 +3,12 @@ none = "none"
 
 
 [[main]]
+name = "Bio"
+#pageRef = ""
+weight = 0
+
+
+[[main]]
 name = "Research"
 #pageRef = "research"
 weight = 1
@@ -33,11 +39,6 @@ pageRef = "pvd"
 parent = "Research"
 weight=3
 
-#[[main]]
-#name = "Knowledge, Data, and Methods"
-#pageRef = "knowledge_data_methods"
-#parent = "Research"
-#weight=4
 
 [[main]]
 name = "CV"
