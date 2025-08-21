@@ -2,10 +2,6 @@
 none = "none"
 
 
-[[main]]
-name = "Bio"
-#pageRef = "/"
-weight = 1
 
 
 [[main]]
