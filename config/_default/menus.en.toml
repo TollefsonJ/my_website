@@ -5,20 +5,20 @@ none = "none"
 [[main]]
 name = "Bio"
 #pageRef = ""
-weight = 0
+weight = 1
 
 
 [[main]]
 name = "Research"
 #pageRef = "research"
-weight = 1
+weight = 2
 
 
 [[main]]
 name = "Recent Work"
 pageRef = "recent_work"
 identifier = "QQYKq6dVVM"
-weight = 2
+weight = 3
 
 
 [[main]]
@@ -44,7 +44,7 @@ weight=3
 name = "CV"
 url = "https://jonathantollefson.com/Tollefson_CV.pdf"
 identifier = "sirRePSXc7"
-weight = 3
+weight = 4
 
 [[footer]]
 none = "none"
