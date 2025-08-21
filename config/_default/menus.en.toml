@@ -16,7 +16,7 @@ weight = 2
 
 
 [[main]]
-name = "Neighborhood Formation"
+name = "Environmental Roots of Urban Inequality"
 pageRef = "cities_environments"
 parent = "Research"
 weight=1
