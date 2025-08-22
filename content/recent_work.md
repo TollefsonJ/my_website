@@ -68,12 +68,12 @@ Frickel, S., Demortain, D., Beck, S., Gray, I., Grundmann, R., Hannud Abdo, A., 
 ### Public scholarship
 
 
-<a target="_blank" href="https://dsl.richmond.edu/panorama/redlining/map/RI/Providence/context">**Tollefson, J.**</a> (2023) Redlining and segregation in Providence, RI. Essay for *Mapping Inequality*. Richmond, VA: University of Richmond Digital Scholarship Lab.
+<a target="_blank" href="https://dsl.richmond.edu/panorama/redlining/map/RI/Providence/context">**Tollefson, J.**</a> 2023. "Redlining and segregation in Providence, RI."" Essay for *Mapping Inequality*. Richmond, VA: University of Richmond Digital Scholarship Lab.
 
 
-<a target="_blank" href="https://urbanomnibus.net/2021/07/gasworks-lost-and-found/">**Tollefson, J.** and Frickel, S.</a> (2021) "Gasworks, lost and found." *Urban Omnibus*. July 1.
+<a target="_blank" href="https://urbanomnibus.net/2021/07/gasworks-lost-and-found/">**Tollefson, J.** and Frickel, S.</a> 2021. "Gasworks, lost and found." *Urban Omnibus*. New York: Architectural League of New York. July 1.
 
-<a target="_blank" href="https://www.providencejournal.com/story/opinion/2016/04/02/jonathan-tollefson-and-michael-urso-black-lives-matter-at-st-patricks-day-parade/32030859007/">**Tollefson, J.** and Urso, M.</a> (2018) "Black Lives Matter at St. Patrick’s Day Parade." Op-ed in the *Providence Journal*. April 2.
+<a target="_blank" href="https://www.providencejournal.com/story/opinion/2016/04/02/jonathan-tollefson-and-michael-urso-black-lives-matter-at-st-patricks-day-parade/32030859007/">**Tollefson, J.** and Urso, M.</a> 2018. "Black Lives Matter at St. Patrick’s Day Parade." Op-ed in the *Providence Journal*. April 2.
 
 </br>
 
