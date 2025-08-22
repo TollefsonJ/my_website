@@ -2,11 +2,11 @@
 layout: "simple"
 ---
 
-# Socio-Environmental Change
+# Socio-Environmental Change in Cities
 
 This area of my research focuses on localized processes of social-environmental change in cities over the course of the 20th century. Two projects, conducted in collaboration with the Community Engagement Core of the Superfund Research Program at Brown University and the Rhode Island Department of Health, analyze of the interaction between urban greening and postindustrial abandonment (see  <a target="_blank" href="https://journals.sagepub.com/doi/10.1177/15356841231152616">this article in *City & Community*</a>) and the multiplicative effects of race, ethnicity, and school type on unequal geographies of environmental health risk among school-age children (see <a target="_blank" href="https://www.liebertpub.com/doi/10.1089/env.2021.0121">this article in *Environmental Justice*</a>). Together, these projects reveal how complex interactions between diverse forms of urban land use and iterative population change may reshape local structures of inequality over time, with important implications for racial, environmental, and health justice. 
 
-These projects build on a wide array of longitudinal spatial data on the industrial, environmental, and social history of the Providence, RI area, collected by collaborators and colleagues. Explore some of these data below↓
+These projects build on a wide array of longitudinal spatial data on the industrial, environmental, and social history of the Providence, RI area, collected by collaborators and colleagues. Explore some of these data below ↓
 
 
 <br/>
