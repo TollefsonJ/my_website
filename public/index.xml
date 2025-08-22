@@ -2,81 +2,57 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Jonathan Tollefson</title>
-    <link>http://localhost:43993/</link>
+    <link>//localhost:1313/</link>
     <description>Recent content on Jonathan Tollefson</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language>
-    <copyright>© 2025 Jonathan Tollefson</copyright>
-    <atom:link href="http://localhost:43993/index.xml" rel="self" type="application/rss+xml" />
-    
+    <language>en</language><atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title></title>
-      <link>http://localhost:43993/cities_environments/</link>
+      <link>//localhost:1313/cities_environments/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:43993/cities_environments/</guid>
-      <description>Environments and Neighborhood Formation # My primary research investigates the formation and development of racial-environmental inequality in cities, linking spatial, quantitative, and computational and machine learning methods to produce novel longitudinal data.</description>
-      
+      <guid>//localhost:1313/cities_environments/</guid>
+      <description>Environmental Roots of Urban Inequality My primary research investigates the formation and development of racial-environmental inequality in cities, linking spatial, quantitative, and computational and machine learning methods to produce novel longitudinal data. My dissertation presents the first analysis of urban environmental inequality in the late 19th and early 20th centuries, corresponding to the initial formation of neighborhood-scale racial segregation. This research is enabled by historical social-environmental data extraction techniques using a variety of computational methods (see this article on machine learning approaches to data extraction.</description>
     </item>
     
     <item>
       <title></title>
-      <link>http://localhost:43993/cv/</link>
+      <link>//localhost:1313/pvd/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:43993/cv/</guid>
-      <description></description>
-      
+      <guid>//localhost:1313/pvd/</guid>
+      <description>Socio-Environmental Change This area of my research focuses on localized processes of social-environmental change in cities over the course of the 20th century. Two projects, conducted in collaboration with the Community Engagement Core of the Superfund Research Program at Brown University and the Rhode Island Department of Health, analyze of the interaction between urban greening and postindustrial abandonment (see this article in City &amp;amp; Community) and the multiplicative effects of race, ethnicity, and school type in unequal geographies of environmental health risk among school-age children (see this article in Environmental Justice).</description>
     </item>
     
     <item>
       <title></title>
-      <link>http://localhost:43993/pvd/</link>
+      <link>//localhost:1313/recent_work/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:43993/pvd/</guid>
-      <description>Socio-Environmental Change # This area of my research focuses on localized processes of social-environmental change in cities over the course of the 20th century.</description>
-      
+      <guid>//localhost:1313/recent_work/</guid>
+      <description>Recent work Publications Tollefson, J., Frickel, S., and Gore, C., and Helgeson, J. (2025). &amp;ldquo;Community resilience planning: What new methods reveal about the formation and transformation of a field.&amp;rdquo; WIREs Climate Change 16(4): e70015.
+Candipan, J. and Tollefson, J. (2024) &amp;ldquo;Machine learning and large-scale data for understanding urban inequality.&amp;rdquo; Invited chapter for The Oxford Handbook of the Sociology of Machine Learning (Borch, C. and Pardo-Guerra, J.P., eds.).
+Tollefson, J., Frickel, S.</description>
     </item>
     
     <item>
       <title></title>
-      <link>http://localhost:43993/recent_work/</link>
+      <link>//localhost:1313/resilience/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:43993/recent_work/</guid>
-      <description>Recent work # Publications # Tollefson, J.</description>
-      
-    </item>
-    
-    <item>
-      <title></title>
-      <link>http://localhost:43993/resilience/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:43993/resilience/</guid>
-      <description>Community Resilience Research and Policy # I use novel computational text analysis approaches to map the knowledge networks that make up the climate and community resilience planning fields, as part of an ongoing collaboration with research economists at the Engineering Laboratory of the National Institute of Standards and Technology.</description>
-      
+      <guid>//localhost:1313/resilience/</guid>
+      <description>Community Resilience Research and Policy I use novel computational text analysis approaches to map the knowledge networks that make up the climate and community resilience planning fields, as part of an ongoing collaboration with research economists at the Engineering Laboratory of the National Institute of Standards and Technology. Our recent systematic review identifies a generational shift toward predictive modeling approaches and away from the conceptual and theoretical literatures that formed the early basis of the field (see this article in WIREs Climate Change).</description>
     </item>
     
     <item>
       <title>Contact</title>
-      <link>http://localhost:43993/contact/</link>
+      <link>//localhost:1313/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:43993/contact/</guid>
-      <description>+ e-mail: jonathan_tollefson@brown.</description>
-      
-    </item>
-    
-    <item>
-      <title>Research</title>
-      <link>http://localhost:43993/research/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:43993/research/</guid>
-      <description>Urban environments and neighborhood formation # My primary research investigates the formation and development of racial-environmental inequality in cities, linking spatial, quantitative, and computational and machine learning methods to produce novel longitudinal data.</description>
-      
+      <guid>//localhost:1313/contact/</guid>
+      <description>+ e-mail: jonathan_tollefson@brown.edu
++ ORCiD: 0000-0002-1392-5841
++ I built this website using Hugo.</description>
     </item>
     
   </channel>
