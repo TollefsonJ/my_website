@@ -1,7 +1,7 @@
 colorScheme = "forest"
 defaultAppearance = "light"
 autoSwitchAppearance = true
-enableSearch = true
+enableSearch = false
 enableCodeCopy = false
 replyByEmail = false
 disableImageOptimization = false
