@@ -16,4 +16,4 @@ I am a Postdoctoral Fellow at the Mansueto Institute for Urban Innovation and th
 
 &nbsp; \+ ORCiD: <a target="_blank" href="https://orcid.org/0000-0002-1392-5841">0000-0002-1392-5841</a>
 
-***NOTE**: My email was down from 8/30 to 9/4. If your message bounced, please try again!
+***NOTE**: My email was down from 8/30 to 9/4. If your message bounced, please try again!*
