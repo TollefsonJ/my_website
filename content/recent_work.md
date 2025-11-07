@@ -13,7 +13,7 @@ layout: "simple"
 
 <a target="_blank" href="https://wires.onlinelibrary.wiley.com/doi/10.1002/wcc.70015">**Tollefson, J.**, Frickel, S., and Gore, C., and Helgeson, J.</a> 2025. "Community resilience planning: What new methods reveal about the formation and transformation of a field." *WIREs Climate Change* 16(4): e70015.
 
-<a target="_blank" href="https://doi.org/10.1093/oxfordhb/9780197653609.013.38">Candipan, J. and **Tollefson, J.**</a>.2024. "Machine learning and large-scale data for understanding urban inequality." *The Oxford Handbook of the Sociology of Machine Learning*, edited by C. Borch and J.P. Pardo-Guerra. Oxford, UK: Oxford University Press. 
+<a target="_blank" href="https://doi.org/10.1093/oxfordhb/9780197653609.013.38">Candipan, J. and **Tollefson, J.**</a> .2024. "Machine learning and large-scale data for understanding urban inequality." *The Oxford Handbook of the Sociology of Machine Learning*, edited by C. Borch and J.P. Pardo-Guerra. Oxford, UK: Oxford University Press. 
 
 <a target="_blank" href="https://journals.sagepub.com/doi/10.1177/15356841231152616">**Tollefson, J.**, Frickel, S., Gonsalves, S., and Marlow, T.</a> 2023. "Parks, people and pollution: A relational study of socioenvironmental succession." _City & Community_ (special issue: _Environmentalizing Urban Sociology_) 22(4): 286–307.
 
@@ -27,7 +27,7 @@ layout: "simple"
 <a target="_blank" href="https://journals.uair.arizona.edu/index.php/JPE/article/view/23828">**Tollefson, J.** and Panikkar, B.</a> 2020. "Impact assessment, public engagement, and environmental knowledge production: Large mine permitting in Alaska’s Yukon-Kuskokwim Delta." _Journal of Political Ecology_ 27(1): 1166-1188.
 - 2021 Graduate Student Paper Award, Rural Sociological Society, Natural Resources RIG
 
-<a target="_blank" href="https://journals.sagepub.com/doi/full/10.1177/0963662520936186?casa_token=U90UE5iANX0AAAAA%3ASB_BL79FhIZIUBCcSE7WVJXnsEvJLeDmsBo9ZIiRPl4oSPXVSsGIkrp3N6TGrEwG005plZdjFOEsoQ">**Tollefson, J.**</a> 2020. "Post-Fukushima discourse in the US press: Quantified knowledge, the technical object, and a panicked public." _Public Understanding of Science_ 29(7): 670-687.
+<a target="_blank" href="https://journals.sagepub.com/doi/full/10.1177/0963662520936186">**Tollefson, J.**</a> 2020. "Post-Fukushima discourse in the US press: Quantified knowledge, the technical object, and a panicked public." _Public Understanding of Science_ 29(7): 670-687.
 
 <a target="_blank" href="https://journals.sagepub.com/doi/abs/10.1177/0306312718803453">Panikkar, B. and **Tollefson, J.**</a> 2018. "Land as material, knowledge and relationships: Resource extraction and subsistence imaginaries in Bristol Bay, Alaska." _Social Studies of Science_ 48(5): 715-739.
 
