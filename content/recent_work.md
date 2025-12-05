@@ -13,7 +13,7 @@ layout: "simple"
 
 <a target="_blank" href="https://wires.onlinelibrary.wiley.com/doi/10.1002/wcc.70015">**Tollefson, J.**, Frickel, S., and Gore, C., and Helgeson, J.</a> 2025. "Community resilience planning: What new methods reveal about the formation and transformation of a field." *WIREs Climate Change* 16(4): e70015.
 
-<a target="_blank" href="https://doi.org/10.1093/oxfordhb/9780197653609.013.38">Candipan, J. and **Tollefson, J.**</a> .2024. "Machine learning and large-scale data for understanding urban inequality." *The Oxford Handbook of the Sociology of Machine Learning*, edited by C. Borch and J.P. Pardo-Guerra. Oxford, UK: Oxford University Press. 
+<a target="_blank" href="https://doi.org/10.1093/oxfordhb/9780197653609.013.38">Candipan, J. and **Tollefson, J.**</a> 2024. "Machine learning and large-scale data for understanding urban inequality." *The Oxford Handbook of the Sociology of Machine Learning*, edited by C. Borch and J.P. Pardo-Guerra. Oxford, UK: Oxford University Press. 
 
 <a target="_blank" href="https://journals.sagepub.com/doi/10.1177/15356841231152616">**Tollefson, J.**, Frickel, S., Gonsalves, S., and Marlow, T.</a> 2023. "Parks, people and pollution: A relational study of socioenvironmental succession." _City & Community_ (special issue: _Environmentalizing Urban Sociology_) 22(4): 286–307.
 
