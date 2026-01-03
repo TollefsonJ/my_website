@@ -11,6 +11,15 @@ layout: "simple"
 
 ### Publications
 
+**Tollefson, J.** Forthcoming. “The Racialization of Environmental Inequality in US Cities, 1880-1930.” Accepted at *Social Forces.*
+- 2023 IPUMS USA Student Research Award
+- 2024 Brent K. Marshall Award, Society for the Study of Social Problems, Environment and Technology Division
+- 2024 Graduate Student Paper Prize, Spatial Structures in the Social Sciences, Brown University
+- Honorable mention, 2024 Candace Rogers Award, Eastern Sociological Society
+- Honorable mention, 2024 Graduate Student Paper Award, Environmental Sociology Section of the ASA
+- Featured in <a href="https://ibes.brown.edu/news/2024-08-05/tollefson-spotlight">IBES spotlight article</a>
+
+
 <a target="_blank" href="https://wires.onlinelibrary.wiley.com/doi/10.1002/wcc.70015">**Tollefson, J.**, Frickel, S., and Gore, C., and Helgeson, J.</a> 2025. "Community resilience planning: What new methods reveal about the formation and transformation of a field." *WIREs Climate Change* 16(4): e70015.
 
 <a target="_blank" href="https://doi.org/10.1093/oxfordhb/9780197653609.013.38">Candipan, J. and **Tollefson, J.**</a> 2024. "Machine learning and large-scale data for understanding urban inequality." *The Oxford Handbook of the Sociology of Machine Learning*, edited by C. Borch and J.P. Pardo-Guerra. Oxford, UK: Oxford University Press. 
@@ -35,14 +44,6 @@ layout: "simple"
 
 ### Under review and submitted
 
-
-**Tollefson, J.** “The Racialization of Environmental Inequality in US Cities, 1880-1930.” *R+R.*
-- 2023 IPUMS USA Student Research Award
-- 2024 Brent K. Marshall Award, Society for the Study of Social Problems, Environment and Technology Division
-- 2024 Graduate Student Paper Prize, Spatial Structures in the Social Sciences, Brown University
-- Honorable mention, 2024 Candace Rogers Award, Eastern Sociological Society
-- Honorable mention, 2024 Graduate Student Paper Award, Environmental Sociology Section of the ASA
-- Featured in <a href="https://ibes.brown.edu/news/2024-08-05/tollefson-spotlight">IBES spotlight article</a>
 
 **Tollefson, J.**, Frickel, S., Helgeson, J., and Gore, C. "Adapting to adaptation: Conceptual development and field formation in community resilience planning." *R+R.*
 
