@@ -5,18 +5,17 @@ layout: "simple"
 
 
 
-
-
+-
 # Recent work
 
 ### Publications
 
 <a target="_blank" href=https://doi.org/10.1093/sf/soag001>**Tollefson, J.**</a> 2026. “Environment and the racialization of space in US cities.” *Social Forces* (online first).
-- IPUMS USA Student Research Award (2023)
-- ASA Environmental Sociology Section Graduate Student Paper Award - Honorable Mention (2024)
-- SSSP Environment and Technology Division Brent K. Marshall Award (2024)
-- Eastern Sociological Society Candace Rogers Award - Honorable Mention (2024)
-- Spatial Structures in the Social Sciences (Brown University) Graduate Student Paper Prize (2024)
+- IPUMS USA: Student Research Award (2023)
+- American Sociological Association, Environmental Sociology Section: Graduate Student Paper Award - Honorable Mention (2024)
+- Society for the Study of Social Problems, Environment and Technology Division: Brent K. Marshall Award (2024)
+- Eastern Sociological Society: Candace Rogers Award - Honorable Mention (2024)
+- Spatial Structures in the Social Sciences, Brown University: Graduate Student Paper Prize (2024)
 - Featured in <a href="https://ibes.brown.edu/news/2024-08-05/tollefson-spotlight">IBES spotlight article</a>
 
 
@@ -31,10 +30,10 @@ layout: "simple"
 <a target="_blank" href="https://journals.sagepub.com/doi/10.1177/23780231221127541">Frickel, S. and **Tollefson, J.**</a> 2022. "When environmental inequality racialized: Historical evidence from Providence, Rhode Island." _Socius_ 8:1-14.
 
 <a target="_blank" href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0255507">**Tollefson, J.**, Frickel, S. and Restrepo, MI.</a> 2021. "Feature extraction and machine learning techniques for identifying historic urban environmental hazards." _PLoS ONE_ 16(8): e0255507.
-- Finalist, 2022 John Odland Award, American Association of Geographers, Spatial Analysis and Modeling Group
+- American Association of Geographers, Spatial Analysis and Modeling Group: John Odland Award - Finalist (2022)
 
 <a target="_blank" href="https://journals.uair.arizona.edu/index.php/JPE/article/view/23828">**Tollefson, J.** and Panikkar, B.</a> 2020. "Impact assessment, public engagement, and environmental knowledge production: Large mine permitting in Alaska’s Yukon-Kuskokwim Delta." _Journal of Political Ecology_ 27(1): 1166-1188.
-- 2021 Graduate Student Paper Award, Rural Sociological Society, Natural Resources RIG
+- Rural Sociological Society, Natural Resources RIG: Graduate Student Paper Award (2021)
 
 <a target="_blank" href="https://journals.sagepub.com/doi/full/10.1177/0963662520936186">**Tollefson, J.**</a> 2020. "Post-Fukushima discourse in the US press: Quantified knowledge, the technical object, and a panicked public." _Public Understanding of Science_ 29(7): 670-687.
 
