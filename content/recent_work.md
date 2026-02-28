@@ -12,11 +12,11 @@ layout: "simple"
 ### Publications
 
 <a target="_blank" href=https://doi.org/10.1093/sf/soag001>**Tollefson, J.**</a> 2026. “Environment and the racialization of space in US cities.” *Social Forces* (online first).
-- 2023 IPUMS USA Student Research Award
-- 2024 Brent K. Marshall Award, Society for the Study of Social Problems, Environment and Technology Division
-- 2024 Graduate Student Paper Prize, Spatial Structures in the Social Sciences, Brown University
-- Honorable mention, 2024 Candace Rogers Award, Eastern Sociological Society
-- Honorable mention, 2024 Graduate Student Paper Award, Environmental Sociology Section of the ASA
+- IPUMS USA Student Research Award (2023)
+- ASA Environmental Sociology Section Graduate Student Paper Award - Honorable Mention (2024)
+- SSSP Environment and Technology Division Brent K. Marshall Award (2024)
+- Eastern Sociological Society Candace Rogers Award - Honorable Mention (2024)
+- Spatial Structures in the Social Sciences (Brown University) Graduate Student Paper Prize (2024)
 - Featured in <a href="https://ibes.brown.edu/news/2024-08-05/tollefson-spotlight">IBES spotlight article</a>
 
 
