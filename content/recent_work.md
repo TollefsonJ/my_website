@@ -69,6 +69,7 @@ Frickel, S., Demortain, D., Beck, S., Gray, I., Grundmann, R., Hannud Abdo, A., 
 
 
 <a target="_blank" href="https://dsl.richmond.edu/panorama/redlining/map/RI/Providence/context">**Tollefson, J.**</a> 2023. "Redlining and segregation in Providence, RI."" Essay for *Mapping Inequality*. Richmond, VA: University of Richmond Digital Scholarship Lab.
+- Media coverage: "<a target="_blank" href="https://www.theindy.org/article/4036">Providence’s rent stabilization debate</a>." March 12, 2026. *The College Hill Independent.*
 
 
 <a target="_blank" href="https://urbanomnibus.net/2021/07/gasworks-lost-and-found/">**Tollefson, J.** and Frickel, S.</a> 2021. "Gasworks, lost and found." *Urban Omnibus*. New York: Architectural League of New York. July 1.
