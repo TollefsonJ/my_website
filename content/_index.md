@@ -8,7 +8,6 @@ draft: false
 
 </br>
 
-# Bio
 
 I am a Postdoctoral Fellow at the Department of Sociology and the Mansueto Institute for Urban Innovation at the University of Chicago. My research investigates how society-environment relations shape inequality, focusing on the structural roots of environmental injustice and the interface between science and policy. I draw on computational, spatial, and mixed methods across my work, and develop new methodologies to understand social and environmental change across scales.
 
