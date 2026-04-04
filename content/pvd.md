@@ -15,6 +15,8 @@ These projects build on a wide array of longitudinal spatial data on the industr
 
 </br>
 
+<div style="font-size: 12pt;">
+
 Data sources
 
 - Manufactured gas: <a target="_blank" href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0255507">**Tollefson, J.**, Frickel, S. and Restrepo, M.I. 2021</a>
@@ -24,3 +26,6 @@ Data sources
 - HOLC maps: <a target="_blank" href="https://dsl.richmond.edu/panorama/redlining">Nelson, R.K, Winling, L., et al 2023</a>
 - SIR sites: RI Department of Environmental Management
 - Air monitoring: Hastings and Frickel
+
+
+</div>
