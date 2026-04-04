@@ -1,5 +1,6 @@
 ---
 layout: "simple"
+draft: true
 ---
 
 # Environmental Roots of Urban Inequality
