@@ -14,7 +14,3 @@ See below for a partial reconstruction of coal gasification in Chicagoland. New 
 
 </br>
 
-Data sources
-
-- Methods adapted from: <a target="_blank" href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0255507">**Tollefson, J.**, Frickel, S. and Restrepo, M.I. 2021</a>
-- See also <a target="_blank" href=https://doi.org/10.1093/sf/soag001>**Tollefson, J.**</a> 2026.
