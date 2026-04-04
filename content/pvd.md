@@ -17,8 +17,10 @@ These projects build on a wide array of longitudinal spatial data on the industr
 
 Data sources
 
-- <a target="_blank" href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0255507">**Tollefson, J.**, Frickel, S. and Restrepo, M.I. 2021</a>
-- <a target="_blank" href="https://repository.library.brown.edu/studio/item/bdr:919360/">Bell et al. 2019</a>
-- <a target="_blank" href="https://repository.library.brown.edu/studio/item/bdr:841116/">Marlow, T. and Frickel, S. 2018</a>; see also <a target="_blank" href="https://onlinelibrary.wiley.com/doi/full/10.1111/socf.12639">Marlow, T., Frickel, S., and Elliot, J., 2020</a> 
-- Gonsalves, S. 2020
-- <a target="_blank" href="https://dsl.richmond.edu/panorama/redlining">Nelson, R.K, Winling, L., et al 2023</a>
+- Manufactured gas: <a target="_blank" href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0255507">**Tollefson, J.**, Frickel, S. and Restrepo, M.I. 2021</a>
+- Haz. businesses: <a target="_blank" href="https://repository.library.brown.edu/studio/item/bdr:919360/">Bell et al. 2019</a>
+- Manufacturing: <a target="_blank" href="https://repository.library.brown.edu/studio/item/bdr:841116/">Marlow, T. and Frickel, S. 2018</a>; see also <a target="_blank" href="https://onlinelibrary.wiley.com/doi/full/10.1111/socf.12639">Marlow, T., Frickel, S., and Elliot, J., 2020</a> 
+- Gardens: Gonsalves, S. 2020
+- HOLC maps: <a target="_blank" href="https://dsl.richmond.edu/panorama/redlining">Nelson, R.K, Winling, L., et al 2023</a>
+- SIR sites: RI Department of Environmental Management
+- Air monitoring: Hastings and Frickel
