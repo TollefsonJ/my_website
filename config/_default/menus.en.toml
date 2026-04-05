@@ -30,7 +30,7 @@ parent = "Research"
 weight=2
 
 [[main]]
-name = "Social-Environmental Change in Cities"
+name = "Socio-Ecological City Project"
 pageRef = "pvd"
 parent = "Research"
 weight=3
