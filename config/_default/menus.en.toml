@@ -43,10 +43,17 @@ weight=4
 
 
 [[main]]
+name = "Contested Knowledges"
+pageRef = "contested_knowledges"
+parent = "Research"
+weight=5
+
+
+[[main]]
 name = "CV"
 url = "https://jonathantollefson.com/Tollefson_CV.pdf"
 identifier = "sirRePSXc7"
-weight = 5
+weight = 6
 
 [[footer]]
 none = "none"

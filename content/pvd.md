@@ -2,7 +2,7 @@
 layout: "simple"
 ---
 
-# Social-Environmental Change in Cities
+# Socio-Ecological City Project
 
 This area of my research focuses on localized processes of social-environmental change in cities over the course of the 20th century. Two projects, conducted in collaboration with the Community Engagement Core of the Superfund Research Program at Brown University and the Rhode Island Department of Health, analyze of the interaction between urban greening and postindustrial abandonment (see  <a target="_blank" href="https://journals.sagepub.com/doi/10.1177/15356841231152616">this article in *City & Community*</a>) and the multiplicative effects of race, ethnicity, and school type on unequal geographies of environmental health risk among school-age children (see <a target="_blank" href="https://www.liebertpub.com/doi/10.1089/env.2021.0121">this article in *Environmental Justice*</a>). Together, these projects reveal how complex interactions between diverse forms of urban land use and iterative population change may reshape local structures of inequality over time, with important implications for racial, environmental, and health justice. 
 
@@ -19,13 +19,13 @@ These projects build on a wide array of longitudinal spatial data on the industr
 
 Data sources
 
-- Manufactured gas: <a target="_blank" href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0255507">**Tollefson, J.**, Frickel, S. and Restrepo, M.I. 2021</a>
-- Haz. businesses: <a target="_blank" href="https://repository.library.brown.edu/studio/item/bdr:919360/">Bell et al. 2019</a>
-- Manufacturing: <a target="_blank" href="https://repository.library.brown.edu/studio/item/bdr:841116/">Marlow, T. and Frickel, S. 2018</a>; see also <a target="_blank" href="https://onlinelibrary.wiley.com/doi/full/10.1111/socf.12639">Marlow, T., Frickel, S., and Elliot, J., 2020</a> 
-- Gardens: Gonsalves, S. 2020
-- HOLC maps: <a target="_blank" href="https://dsl.richmond.edu/panorama/redlining">Nelson, R.K, Winling, L., et al 2023</a>
-- SIR sites: RI Department of Environmental Management
-- Air monitoring: Hastings and Frickel
+- Manufactured gas: <a target="_blank" href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0255507">**Tollefson, J.**, Frickel, S. and Restrepo, M.I. 2021</a>.
+- Haz. businesses: <a target="_blank" href="https://repository.library.brown.edu/studio/item/bdr:919360/">Bell et al. 2019</a>.
+- Manufacturing: <a target="_blank" href="https://repository.library.brown.edu/studio/item/bdr:841116/">Marlow, T. and Frickel, S. 2018</a>; see also <a target="_blank" href="https://onlinelibrary.wiley.com/doi/full/10.1111/socf.12639">Marlow, T., Frickel, S., and Elliot, J., 2020</a>.
+- Gardens: Gonsalves, S. 2020.
+- HOLC maps: <a target="_blank" href="https://dsl.richmond.edu/panorama/redlining">Nelson, R.K, Winling, L., et al 2023</a>.
+- SIR sites: RI Department of Environmental Management.
+- Air monitoring: Hastings and Frickel.
 
 
 </div>

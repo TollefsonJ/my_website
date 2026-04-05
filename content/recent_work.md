@@ -32,7 +32,7 @@ layout: "simple"
 <a target="_blank" href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0255507">**Tollefson, J.**, Frickel, S. and Restrepo, MI.</a> 2021. "Feature extraction and machine learning techniques for identifying historic urban environmental hazards." _PLoS ONE_ 16(8): e0255507.
 - American Association of Geographers, Spatial Analysis and Modeling Group: John Odland Award - Finalist (2022)
 
-<a target="_blank" href="https://journals.uair.arizona.edu/index.php/JPE/article/view/23828">**Tollefson, J.** and Panikkar, B.</a> 2020. "Impact assessment, public engagement, and environmental knowledge production: Large mine permitting in Alaska’s Yukon-Kuskokwim Delta." _Journal of Political Ecology_ 27(1): 1166-1188.
+<a target="_blank" href="https://journals.librarypublishing.arizona.edu/jpe/article/id/2275/">**Tollefson, J.** and Panikkar, B.</a> 2020. "Impact assessment, public engagement, and environmental knowledge production: Large mine permitting in Alaska’s Yukon-Kuskokwim Delta." _Journal of Political Ecology_ 27(1): 1166-1188.
 - Rural Sociological Society, Natural Resources RIG: Graduate Student Paper Award (2021)
 
 <a target="_blank" href="https://journals.sagepub.com/doi/full/10.1177/0963662520936186">**Tollefson, J.**</a> 2020. "Post-Fukushima discourse in the US press: Quantified knowledge, the technical object, and a panicked public." _Public Understanding of Science_ 29(7): 670-687.
