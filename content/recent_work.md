@@ -54,7 +54,7 @@ Demortain, D., Frickel, S., Beck, S., Gray, I., Grundmann, R., Hannud Abdo, A., 
 
 
 
-**Tollefson, J.** "The environmental dimensions of HOLC redlining decisions." *Working paper.*
+**Tollefson, J.** "The environmental dimensions of HOLC redlining decisions." *Working paper. Delivered at Population Association of America (Washington, DC. Apr. 10-13, 2025) and American Sociological Association (Chicago, IL. Aug. 8-12, 2025).*
 
 **Tollefson, J.** "Industrial geography and urban inequality formation in the early 20th century." *Working paper.*
 
