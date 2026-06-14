@@ -4,10 +4,6 @@ none = "none"
 
 
 
-[[main]]
-name = "Research"
-#pageRef = "research"
-weight = 2
 
 
 [[main]]
@@ -17,36 +13,6 @@ identifier = "QQYKq6dVVM"
 weight = 3
 
 
-[[main]]
-name = "Environmental Roots of Urban Inequality"
-pageRef = "cities_environments"
-parent = "Research"
-weight=1
-
-[[main]]
-name = "Community Resilience"
-pageRef = "resilience"
-parent = "Research"
-weight=2
-
-[[main]]
-name = "Socio-Ecological City Project"
-pageRef = "pvd"
-parent = "Research"
-weight=3
-
-[[main]]
-name = "Historical Geographies of Chicagoland"
-pageRef = "chi"
-parent = "Research"
-weight=4
-
-
-[[main]]
-name = "Contested Knowledges"
-pageRef = "contested_knowledges"
-parent = "Research"
-weight=5
 
 
 [[main]]
