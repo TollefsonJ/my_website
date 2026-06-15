@@ -4,7 +4,11 @@ layout: "simple"
 
 {{< visualnav currlink="/projects/pvd/" >}}
 
-## Socio-Ecological City Project
+
+<div style="font-size: 24pt">
+<b>Socio-Ecological City Project</b>
+</div>
+
 
 This area of my research focuses on localized processes of social-environmental change in cities over the course of the 20th century. Two projects, conducted in collaboration with the Community Engagement Core of the Superfund Research Program at Brown University and the Rhode Island Department of Health, analyze of the interaction between urban greening and postindustrial abandonment (see [this article](/publications/2023_cc/) in *City & Community*</a>) and the multiplicative effects of race, ethnicity, and school type on unequal geographies of environmental health risk among school-age children (see [this article](/publications/2023_ej/) in *Environmental Justice*</a>). Together, these projects reveal how complex interactions between diverse forms of urban land use and iterative population change may reshape local structures of inequality over time, with important implications for racial, environmental, and health justice. 
 

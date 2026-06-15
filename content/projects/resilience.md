@@ -5,7 +5,10 @@ layout: "simple"
 {{< visualnav currlink="/projects/resilience/" >}}
 
 
-## Community Resilience Research and Policy
+
+<div style="font-size: 24pt">
+<b>Community Resilience Research and Policy</b>
+</div>
 
 I am pursuing a series of projects analyzing knowledge networks that make up the climate and community resilience planning fields, as part of an ongoing collaboration with the Applied Economics Office of the Engineering Laboratory at the National Institute of Standards and Technology. Our recent systematic review identifies a generational shift toward predictive modeling approaches and away from the conceptual and theoretical literatures that formed the early basis of the field (see [this article](/publications/2025_wires/) in *WIREs Climate Change*</a>). We are continuing this line of work in two directions: First, to map the conceptual relationship between climate resilience and adaptation frameworks; and, second, to understand the circulation of knowledge between academic and policy communities, taking advantage of large-scale data on city, state, and federal policy documents. 
 
