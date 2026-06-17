@@ -1,13 +1,14 @@
 ---
 layout: "simple"
 ---
+<div style="overflow: hidden;"> <!-- Ensures float is contained -->
+  <div style="width:340px; aspect-ratio:1/1; float:left; margin:0 1.25rem 0rem 0;">
+    {{< backimgbar currlink="/projects/pvd/" >}}
+  </div>
+  <h2 style="margin-top:0;">Socio-Ecological City Project</h2>
+  <p>
+    
 
-{{< visualnav currlink="/projects/pvd/" >}}
-
-
-<div style="font-size: 24pt">
-<b>Socio-Ecological City Project</b>
-</div>
 
 
 This area of my research focuses on localized processes of social-environmental change in cities over the course of the 20th century. Two projects, conducted in collaboration with the Community Engagement Core of the Superfund Research Program at Brown University and the Rhode Island Department of Health, analyze of the interaction between urban greening and postindustrial abandonment (see [this article](/publications/2023_cc/) in *City & Community*</a>) and the multiplicative effects of race, ethnicity, and school type on unequal geographies of environmental health risk among school-age children (see [this article](/publications/2023_ej/) in *Environmental Justice*</a>). Together, these projects reveal how complex interactions between diverse forms of urban land use and iterative population change may reshape local structures of inequality over time, with important implications for racial, environmental, and health justice. 
@@ -18,6 +19,7 @@ This area of my research focuses on localized processes of social-environmental 
 - <a target="_blank" href="https://dsl.richmond.edu/panorama/redlining/map/RI/Providence/context">**<u>Tollefson, J.</u>**</a> 2023. "Redlining and segregation in Providence, RI." Essay for *Mapping Inequality*. Richmond, VA: University of Richmond Digital Scholarship Lab.
 
 These projects build on a wide array of longitudinal spatial data on the industrial, environmental, and social history of the Providence, RI area, collected by myself, collaborators, and colleagues. Explore some of these data below ↓
+
 
 
 <br/>
@@ -44,5 +46,10 @@ Data sources
 
 </div>
 
+
+
+  </p>
+
+</div>
 
 

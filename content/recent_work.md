@@ -12,12 +12,11 @@ layout: "simple"
 
 
 [**<u>Tollefson, J.</u>**](/publications/2026_sf/) 2026. “Environment and the racialization of space in US cities.” *Social Forces* (online first).
-- IPUMS USA: Student Research Award (2023)
-- American Sociological Association, Environmental Sociology Section: Graduate Student Paper Award - Honorable Mention (2024)
-- Society for the Study oft Social Problems, Environment and Technology Division: Brent K. Marshall Award (2024)
-- Eastern Sociological Society: Candace Rogers Award - Honorable Mention (2024)
-- Spatial Structures in the Social Sciences, Brown University: Graduate Student Paper Prize (2024)
-- Featured in <a href="https://ibes.brown.edu/news/2024-08-05/tollefson-spotlight">IBES spotlight article</a>
+- IPUMS USA: Student Research Award
+- American Sociological Association, Environmental Sociology Section: Graduate Student Paper Award - Honorable Mention
+- Society for the Study oft Social Problems, Environment and Technology Division: Brent K. Marshall Award
+- Eastern Sociological Society: Candace Rogers Award - Honorable Mention
+- Spatial Structures in the Social Sciences, Brown University: Graduate Student Paper Prize
 
 
 [**<u>Tollefson, J.</u>**, Frickel, S., and Gore, C., and Helgeson, J.](/publications/2025_wires/) 2025. "Community resilience planning: What new methods reveal about the formation and transformation of a field." *WIREs Climate Change* 16(4): e70015.
