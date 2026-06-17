@@ -3,3 +3,7 @@
 extended = true
 min = "0.137.0"
 max = "0.148.0"
+
+
+[params.assets]
+customCSS = ["css/custom.css"]

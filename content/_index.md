@@ -10,9 +10,14 @@ layout: "simple"
 
 
 
+## Jonathan Tollefson
+**University of Chicago** <br> Dept. of Sociology and Mansueto Institute for Urban Innovation
 
+Jonathan's research investigates how society-environment relations shape inequality, focusing on the structural roots of environmental injustice and the interface between science and policy. Their research draws on computational, spatial, and mixed methods, while also taking computational methods and large-scale data as objects of substantive and theoretical investigation.
 
-I am a Postdoctoral Fellow at the Mansueto Institute for Urban Innovation and the Department of Sociology at the University of Chicago. My research investigates how society-environment relations shape inequality, focusing on the structural roots of environmental injustice and the interface between science and policy. I draw on computational, spatial, and mixed methods across my work, and develop new methodologies to understand social and environmental change across scales. Check out my work using the tiles below.
+Jonathan's work has appeared in *Social Forces*, *City & Community*, and *Social Studies of Science*, among others. Their research is widely awarded and has been supported by the *National Insitute of Standards and Technology*, the *National Institute of Environmental Health Sciences Superfund Research Program*, *CROCUS* (US DOE - Argonne National Laboratory), and the *SEEKCommons Project* (NSF award #2226425), among others. Explore their recent and ongoing work using the tiles below.
+ 
+
 
 &nbsp; \+  e-mail: [tollefson@uchicago.edu](mailto:tollefson@uchicago.edu)
 

@@ -2,7 +2,6 @@ disabled = false
 languageCode = "en"
 languageName = "English"
 weight = 1
-title = "Jonathan Tollefson"
 
 [params]
 displayName = "EN"

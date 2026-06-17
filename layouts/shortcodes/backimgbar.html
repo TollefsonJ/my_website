@@ -71,7 +71,7 @@ function goBack() { window.history.back(); }
 {{ end }}
 
 {{- if $image }}
-<div class="visual-nav-back-imgbar" onclick="goBack()" title="Back to previous page" tabindex="0">
+<div class="visual-nav-back-imgbar" onclick="location.href='/'" title="Back to home" tabindex="0">
     <img class="nozoom" src="{{ $image | relURL }}" alt="Back image">
     <div class="back-overlay">back</div>
 </div>

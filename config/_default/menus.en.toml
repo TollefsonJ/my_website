@@ -3,14 +3,50 @@ none = "none"
 
 
 
+[[main]]
+name = "Home"
+pageRef = "/"
+weight = 2
 
+[[main]]
+name = "Research"
+weight = 3
+
+
+
+
+[[main]]
+name = "Environmental Roots of Urban Inequality"
+pageRef = "projects/cities_environments"
+parent = "Research"
+weight = 5
+[[main]]
+name = "Historical Geographies of Chicagoland"
+parent = "Research"
+pageRef = "projects/chi"
+weight = 6
+[[main]]
+name = "Resilience Research and Policy"
+parent = "Research"
+pageRef = "projects/resilience"
+weight = 7
+[[main]]
+name = "Socio-Ecological City Project"
+parent = "Research"
+pageRef = "projects/pvd"
+weight = 8
+[[main]]
+name = "Environmental Knowledge and Policy"
+parent = "Research"
+pageRef = "projects/contested_knowledges"
+weight = 9
 
 
 [[main]]
 name = "Recent Work"
 pageRef = "recent_work"
 identifier = "QQYKq6dVVM"
-weight = 3
+weight = 98
 
 
 
@@ -19,7 +55,7 @@ weight = 3
 name = "CV"
 url = "https://jonathantollefson.com/Tollefson_CV.pdf"
 identifier = "sirRePSXc7"
-weight = 6
+weight = 99
 
 [[footer]]
 none = "none"

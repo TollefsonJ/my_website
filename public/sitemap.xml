@@ -3,102 +3,102 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
 
   <url>
-    <loc>http://localhost:39669/</loc>
+    <loc>http://localhost:36025/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:39669/projects/chi/</loc>
+    <loc>http://localhost:36025/projects/chi/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:39669/projects/cities_environments/</loc>
+    <loc>http://localhost:36025/projects/cities_environments/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:39669/projects/contested_knowledges/</loc>
+    <loc>http://localhost:36025/projects/contested_knowledges/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:39669/projects/pvd/</loc>
+    <loc>http://localhost:36025/projects/pvd/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:39669/projects/resilience/</loc>
+    <loc>http://localhost:36025/projects/resilience/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:39669/publications/2018_sss/</loc>
+    <loc>http://localhost:36025/publications/2018_sss/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:39669/publications/2020_jpe/</loc>
+    <loc>http://localhost:36025/publications/2020_jpe/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:39669/publications/2020_pus/</loc>
+    <loc>http://localhost:36025/publications/2020_pus/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:39669/publications/2021_plos/</loc>
+    <loc>http://localhost:36025/publications/2021_plos/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:39669/publications/2022_socius/</loc>
+    <loc>http://localhost:36025/publications/2022_socius/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:39669/publications/2023_cc/</loc>
+    <loc>http://localhost:36025/publications/2023_cc/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:39669/publications/2023_ej/</loc>
+    <loc>http://localhost:36025/publications/2023_ej/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:39669/publications/2024_oxford/</loc>
+    <loc>http://localhost:36025/publications/2024_oxford/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:39669/publications/2025_wires/</loc>
+    <loc>http://localhost:36025/publications/2025_wires/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:39669/publications/2026_sf/</loc>
+    <loc>http://localhost:36025/publications/2026_sf/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:39669/recent_work/</loc>
+    <loc>http://localhost:36025/recent_work/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:39669/research/</loc>
+    <loc>http://localhost:36025/research/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:39669/projects/</loc>
+    <loc>http://localhost:36025/projects/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:39669/publications/</loc>
+    <loc>http://localhost:36025/publications/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
