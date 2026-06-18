@@ -2,59 +2,59 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Projects on </title>
-    <link>http://localhost:35699/projects/</link>
+    <link>http://localhost:35191/projects/</link>
     <description>Recent content in Projects on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2026 Jonathan Tollefson</copyright>
-    <atom:link href="http://localhost:35699/projects/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:35191/projects/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title></title>
-      <link>http://localhost:35699/projects/chi/</link>
+      <link>http://localhost:35191/projects/chi/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:35699/projects/chi/</guid>
+      <guid>http://localhost:35191/projects/chi/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title></title>
-      <link>http://localhost:35699/projects/cities_environments/</link>
+      <link>http://localhost:35191/projects/cities_environments/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:35699/projects/cities_environments/</guid>
+      <guid>http://localhost:35191/projects/cities_environments/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title></title>
-      <link>http://localhost:35699/projects/contested_knowledges/</link>
+      <link>http://localhost:35191/projects/contested_knowledges/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:35699/projects/contested_knowledges/</guid>
+      <guid>http://localhost:35191/projects/contested_knowledges/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title></title>
-      <link>http://localhost:35699/projects/pvd/</link>
+      <link>http://localhost:35191/projects/pvd/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:35699/projects/pvd/</guid>
+      <guid>http://localhost:35191/projects/pvd/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title></title>
-      <link>http://localhost:35699/projects/resilience/</link>
+      <link>http://localhost:35191/projects/resilience/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:35699/projects/resilience/</guid>
+      <guid>http://localhost:35191/projects/resilience/</guid>
       <description></description>
       
     </item>

@@ -2,109 +2,109 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Publications on </title>
-    <link>http://localhost:35699/publications/</link>
+    <link>http://localhost:35191/publications/</link>
     <description>Recent content in Publications on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2026 Jonathan Tollefson</copyright>
-    <atom:link href="http://localhost:35699/publications/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:35191/publications/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title></title>
-      <link>http://localhost:35699/publications/2018_sss/</link>
+      <link>http://localhost:35191/publications/2018_sss/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:35699/publications/2018_sss/</guid>
+      <guid>http://localhost:35191/publications/2018_sss/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title></title>
-      <link>http://localhost:35699/publications/2020_jpe/</link>
+      <link>http://localhost:35191/publications/2020_jpe/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:35699/publications/2020_jpe/</guid>
+      <guid>http://localhost:35191/publications/2020_jpe/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title></title>
-      <link>http://localhost:35699/publications/2020_pus/</link>
+      <link>http://localhost:35191/publications/2020_pus/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:35699/publications/2020_pus/</guid>
+      <guid>http://localhost:35191/publications/2020_pus/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title></title>
-      <link>http://localhost:35699/publications/2021_plos/</link>
+      <link>http://localhost:35191/publications/2021_plos/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:35699/publications/2021_plos/</guid>
+      <guid>http://localhost:35191/publications/2021_plos/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title></title>
-      <link>http://localhost:35699/publications/2022_socius/</link>
+      <link>http://localhost:35191/publications/2022_socius/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:35699/publications/2022_socius/</guid>
+      <guid>http://localhost:35191/publications/2022_socius/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title></title>
-      <link>http://localhost:35699/publications/2023_cc/</link>
+      <link>http://localhost:35191/publications/2023_cc/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:35699/publications/2023_cc/</guid>
+      <guid>http://localhost:35191/publications/2023_cc/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title></title>
-      <link>http://localhost:35699/publications/2023_ej/</link>
+      <link>http://localhost:35191/publications/2023_ej/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:35699/publications/2023_ej/</guid>
+      <guid>http://localhost:35191/publications/2023_ej/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title></title>
-      <link>http://localhost:35699/publications/2024_oxford/</link>
+      <link>http://localhost:35191/publications/2024_oxford/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:35699/publications/2024_oxford/</guid>
+      <guid>http://localhost:35191/publications/2024_oxford/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title></title>
-      <link>http://localhost:35699/publications/2025_wires/</link>
+      <link>http://localhost:35191/publications/2025_wires/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:35699/publications/2025_wires/</guid>
+      <guid>http://localhost:35191/publications/2025_wires/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title></title>
-      <link>http://localhost:35699/publications/2026_sf/</link>
+      <link>http://localhost:35191/publications/2026_sf/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:35699/publications/2026_sf/</guid>
+      <guid>http://localhost:35191/publications/2026_sf/</guid>
       <description></description>
       
     </item>
