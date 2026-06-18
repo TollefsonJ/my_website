@@ -16,7 +16,7 @@ This area of my research focuses on localized processes of social-environmental 
 *Related publications*
 - [**<u>Tollefson, J.</u>**, Frickel, S., Gonsalves, S., and Marlow, T.](/publications/2023_cc/) 2023. "Parks, people and pollution: A relational study of socioenvironmental succession." _City & Community_ (special issue: _Environmentalizing Urban Sociology_) 22(4): 286–307.
 - [**<u>Tollefson, J.</u>**, Frickel, S., Gonsalves, S., Marlow, T., Sucsy, R., Byrns, M., and Orpen-Tuz, M.](/publications/2023_ej/) 2023. "Early childcare and education in a post-industrial landscape: Inequalities in exposure to active and relic manufacturing in metropolitan Providence, Rhode Island." _Environmental Justice_ 16(4): 309-320.
-- <a target="_blank" href="https://dsl.richmond.edu/panorama/redlining/map/RI/Providence/context">**<u>Tollefson, J.</u>**</a> 2023. "Redlining and segregation in Providence, RI." Essay for *Mapping Inequality*. Richmond, VA: University of Richmond Digital Scholarship Lab.
+
 
 These projects build on a wide array of longitudinal spatial data on the industrial, environmental, and social history of the Providence, RI area, collected by myself, collaborators, and colleagues. Explore some of these data below ↓
 

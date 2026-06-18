@@ -26,7 +26,7 @@ Supported by the SEEKCommons Project (National Science Foundation FAIROS RCN Awa
 - [Frickel, S. and **<u>Tollefson, J.</u>**](/publications/2022_socius/) 2022. "When environmental inequality racialized: Historical evidence from Providence, Rhode Island." _Socius_ 8:1-14.
 - [**<u>Tollefson, J.</u>**, Frickel, S. and Restrepo, MI.](/publications/2021_plos/) 2021. "Feature extraction and machine learning techniques for identifying historic urban environmental hazards." _PLoS ONE_ 16(8): e0255507.
 - <a target="_blank" href="https://urbanomnibus.net/2021/07/gasworks-lost-and-found/">**<u>Tollefson, J.</u>** and Frickel, S.</a> 2021. "Gasworks, lost and found." *Urban Omnibus*. New York: Architectural League of New York. July 1.
-
+- <a target="_blank" href="https://dsl.richmond.edu/panorama/redlining/map/RI/Providence/context">**<u>Tollefson, J.</u>**</a> 2023. "Redlining and segregation in Providence, RI." Essay for *Mapping Inequality*. Richmond, VA: University of Richmond Digital Scholarship Lab.
 
 
   </p>

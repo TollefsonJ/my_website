@@ -23,4 +23,7 @@ Jennifer Candipan, **Jonathan Tollefson**
 
 **Abstract** Advances in machine learning and the proliferation of big data are shifting how sociologists understand urban inequality and governance. This chapter outlines how scholars in recent years have paired increasingly advanced predictive analytic tools with new sources of urban data to expand a sociological understanding of cities. The chapter focuses on four thematic areas in the sociological study of cities: (a) urban mobility, (b) neighborhood inequality and change, (c) urban form and function, and (d) predictive modeling for urban governance. The chapter concludes with a discussion of the ethics and potential pitfalls of machine learning and big data applications in an urban context. Taking a mindful approach to computational urban scholarship, this chapter argues that despite the noted challenges that ML raises, the recent innovations in machine learning in tandem with growing availability of novel real-time data have the potential to push forward the field of urban scholarship in fruitful ways. This opens the door for new multidisciplinary and multi-method collaborations that expand sociological understandings of the city.
 
+**Related projects**
+- [Environmental Roots of Urban Inequality](/projects/cities_environments/)
+
 </div>
