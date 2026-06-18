@@ -14,7 +14,7 @@ layout: "simple"
 [**<u>Tollefson, J.</u>**](/publications/2026_sf/) 2026. “Environment and the racialization of space in US cities.” *Social Forces* (online first).
 - IPUMS USA: Student Research Award
 - American Sociological Association, Environmental Sociology Section: Graduate Student Paper Award - Honorable Mention
-- Society for the Study oft Social Problems, Environment and Technology Division: Brent K. Marshall Award
+- Society for the Study of Social Problems, Environment and Technology Division: Brent K. Marshall Award
 - Eastern Sociological Society: Candace Rogers Award - Honorable Mention
 - Spatial Structures in the Social Sciences, Brown University: Graduate Student Paper Prize
 
