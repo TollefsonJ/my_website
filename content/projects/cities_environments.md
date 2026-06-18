@@ -16,7 +16,7 @@ layout: "simple"
 
 My primary research investigates the formation and development of racial-environmental inequality in cities, linking spatial, quantitative, and computational and machine learning methods to produce novel longitudinal data. This research is enabled by historical data extraction using a variety of computational methods (see [this article](/publications/2021_plos/) on my novel machine learning approach to analyzing archival data, as well as [this chapter](/publications/2024_oxford/) on ML methods and large-scale data in urban research). I use these original data to conduct the first comparative analysis of urban environmental inequality in the late 19th and early 20th centuries, which finds that the racialization of environmental inequality emerged alongside and in relation to the initial formation of segregated and unequal neighborhoods (see [this article](/publications/2026_sf/) in *Social Forces*, as well as [this article](/publications/2022_socius/) in *Socius*). This research suggests new directions to embed urban sociology within a social-environmental perspective. 
 
-Supported by the National Science Foundation SEEKCommons Project (NSF FAIROS RCN Award 2226425).
+Supported by the National Science Foundation <a target="_blank" href="https://seekcommons.org/fellows.html">SEEKCommons Project</a> (NSF FAIROS RCN Award 2226425).
 
 
 *Related publications*
