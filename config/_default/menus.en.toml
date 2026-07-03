@@ -3,10 +3,7 @@ none = "none"
 
 
 
-[[main]]
-name = "Home"
-pageRef = "/"
-weight = 2
+
 
 [[main]]
 name = "Research"
@@ -20,6 +17,7 @@ name = "Environmental Roots of Urban Inequality"
 pageRef = "projects/cities_environments"
 parent = "Research"
 weight = 5
+
 [[main]]
 name = "Historical Geographies of Chicagoland"
 parent = "Research"
@@ -46,10 +44,14 @@ weight = 9
 name = "Recent Work"
 pageRef = "recent_work"
 identifier = "QQYKq6dVVM"
+weight = 90
+
+
+
+[[main]]
+name = "Contact"
+pageRef = "contact"
 weight = 98
-
-
-
 
 [[main]]
 name = "CV"

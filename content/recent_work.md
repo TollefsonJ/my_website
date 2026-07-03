@@ -30,10 +30,10 @@ layout: "simple"
 [Frickel, S. and **<u>Tollefson, J.</u>**](/publications/2022_socius/) 2022. "When environmental inequality racialized: Historical evidence from Providence, Rhode Island." _Socius_ 8:1-14.
 
 [**<u>Tollefson, J.</u>**, Frickel, S. and Restrepo, MI.](/publications/2021_plos/) 2021. "Feature extraction and machine learning techniques for identifying historic urban environmental hazards." _PLoS ONE_ 16(8): e0255507.
-- American Association of Geographers, Spatial Analysis and Modeling Group: John Odland Award - Finalist (2022)
+- American Association of Geographers, Spatial Analysis and Modeling Group: John Odland Award - Finalist
 
 [**<u>Tollefson, J.</u>** and Panikkar, B.</a>](/publications/2020_jpe/) 2020. "Impact assessment, public engagement, and environmental knowledge production: Large mine permitting in Alaska’s Yukon-Kuskokwim Delta." _Journal of Political Ecology_ 27(1): 1166-1188.
-- Rural Sociological Society, Natural Resources RIG: Graduate Student Paper Award (2021)
+- Rural Sociological Society, Natural Resources RIG: Graduate Student Paper Award
 
 [**<u>Tollefson, J.</u>**](/publications/2020_pus/) 2020. "Post-Fukushima discourse in the US press: Quantified knowledge, the technical object, and a panicked public." _Public Understanding of Science_ 29(7): 670-687.
 
