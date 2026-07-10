@@ -1,6 +1,8 @@
 ---
 layout: "simple"
 draft: false
+aliases:
+  - /contested_knowledges/
 ---
 
 

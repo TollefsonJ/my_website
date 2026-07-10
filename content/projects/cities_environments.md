@@ -2,6 +2,8 @@
 params:
   image_zoom: false
 layout: "simple"
+aliases:
+  - /cities_environments/
 ---
 
 

@@ -1,5 +1,7 @@
 ---
 layout: "simple"
+aliases:
+  - /pvd/
 ---
 <div style="overflow: hidden;"> <!-- Ensures float is contained -->
   <div style="width:340px; aspect-ratio:1/1; float:left; margin:0 1.25rem 0rem 0;">

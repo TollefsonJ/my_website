@@ -1,5 +1,7 @@
 ---
 layout: "simple"
+aliases:
+  - /chi/
 ---
 
 
