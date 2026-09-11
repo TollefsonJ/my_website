@@ -9,7 +9,7 @@ layout: "simple"
 
 ### Publications
 
-
+**<u>Tollefson, J.</u>**, Frickel, S., Helgeson, J., and Gore, C. 2026. "Adapting to adaptation: Conceptual development in community resilience planning." Accepted for publication, *Ecology & Society*.
 
 [**<u>Tollefson, J.</u>**](/publications/2026_sf/) 2026. “Environment and the racialization of space in US cities.” *Social Forces* (online first).
 - IPUMS USA: Student Research Award
@@ -44,7 +44,7 @@ layout: "simple"
 ### Under review and submitted
 
 
-**<u>Tollefson, J.</u>**, Frickel, S., Helgeson, J., and Gore, C. "Adapting to adaptation: Conceptual development and field formation in community resilience planning." *R+R.*
+
 
 Demortain, D., Frickel, S., Beck, S., Gray, I., Grundmann, R., Hannud Abdo, A., Kinniburgh, F., Kitson, D., Matzner, N., Rea, C., **<u>Tollefson, J.</u>**, and Wetts, R. "Computational science and technology studies? Assembling STS theory-methods packages with computation." *R+R.*
 
