@@ -11,11 +11,9 @@ layout: "simple"
 
 
 
-Tollefson's research investigates how society-environment relations shape inequality, focusing on the structural roots of environmental injustice and the interface between science and policy. Their work draws on computational, spatial, and mixed methods, while also taking computational methods and large-scale data as objects of substantive and theoretical investigation.
+My research investigates society-environment relations and coupled social-environmental systems, urbanization and industrial transformation, and the relationship between science and policy. I develop original computational, spatial, and mixed methods approaches to create new data from primary source material, while also taking computational methods and large-scale data as objects of substantive and theoretical investigation.
 
-Tollefson's work has appeared in *Social Forces*, *City & Community*, and *Social Studies of Science*, among others. Their research is widely awarded and has been supported by the *National Institute of Standards and Technology*, the *National Institute of Environmental Health Sciences Superfund Research Program*, *CROCUS* (US DOE - Argonne National Laboratory), and the *SEEKCommons Project* (NSF award #2226425), among others. Explore Tollefson's work using the tiles below.
- 
-
+My work has appeared in *Social Forces*, *City & Community*, *Social Studies of Science*, and *WIREs Climate Change*, among others, and has been supported by the *National Institute of Standards and Technology*, the *National Institute of Environmental Health Sciences Superfund Research Program*, *CROCUS* (US DOE - Argonne National Laboratory), and the *SEEKCommons Project* (NSF award #2226425). Explore my work using the tiles below.
 
 
 
