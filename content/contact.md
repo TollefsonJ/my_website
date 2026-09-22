@@ -3,7 +3,7 @@ draft: false
 layout: "simple"
 ---
 
-Contact
+### Contact
 
 &nbsp; \+  e-mail: [tollefson@uchicago.edu](mailto:tollefson@uchicago.edu)
 

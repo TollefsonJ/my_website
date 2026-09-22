@@ -5,7 +5,7 @@ layout: "simple"
 
 
 
-
+Please [contact me](/contact/) for a copy of any paper you may be interested in.
 
 ### Publications
 
