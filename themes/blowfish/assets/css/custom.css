@@ -1,6 +1,6 @@
 /* Increase the default font size */
 html {
-  font-size: 15pt;
+  font-size: 12pt;
 }
 
 bgtext span {
@@ -17,6 +17,7 @@ a:hover {
 
 /* Change font size of site title in header */
 a.text-base.font-medium.text-gray-500.hover\:text-gray-900 {
-  font-size: 1.5rem !important;   /* adjust to taste, e.g. 1.5rem */
+  font-size: 1.3rem !important;   /* adjust to taste, e.g. 1.5rem */
   line-height: 1.2 !important;
 }
+
