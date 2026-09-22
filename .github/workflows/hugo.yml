@@ -37,19 +37,10 @@ jobs:
         run: |
           wget -O ${{ runner.temp }}/hugo.deb https://github.com/gohugoio/hugo/releases/download/v${HUGO_VERSION}/hugo_extended_${HUGO_VERSION}_linux-amd64.deb \
           && sudo dpkg -i ${{ runner.temp }}/hugo.deb
-      - name: Install Latest Dart Sass
-        run: |
-          # Fetch the latest version tag dynamically using GITHUB_TOKEN authentication
-          DART_SASS_VERSION=$(curl -s -H "Authorization: Bearer ${{ secrets.GITHUB_TOKEN }}" https://github.com | jq -r '.tag_name')
-          
-          # Download to the runner's temp folder
-          curl -L -o "${{ runner.temp }}/dart-sass.tar.gz" "https://github.com{DART_SASS_VERSION}/dart-sass-${DART_SASS_VERSION}-linux-x64.tar.gz"
-          
-          # Extract it into the temp folder
-          tar -xvf "${{ runner.temp }}/dart-sass.tar.gz" -C "${{ runner.temp }}"
-          
-          # Add the extracted dart-sass directory to the system PATH
-          echo "${{ runner.temp }}/dart-sass" >> $GITHUB_PATH
+      - name: Install Dart Sass
+        uses: sass/action@v1
+        with:
+          version: latest  # Automatically grabs the newest version
       - name: Checkout
         uses: actions/checkout@v4
         with:
