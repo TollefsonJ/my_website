@@ -8,6 +8,7 @@ layout: "simple"
 Please [contact me](/contact/) for a copy of any paper you may be interested in.
 
 ### Publications
+Demortain, D., Frickel, S., \*Beck, S., \*Gray, I., \*Grundmann, R., \*Hannud Abdo, A., \*Kinniburgh, F., \*Kitson, D., \*Matzner, N., \*Rea, C., \***<u>Tollefson, J.</u>**, and \*Wetts, R. "Computational science and technology studies? Assembling STS theory-methods packages with computation." Accepted for publication, *Science, Technology, & Human Values*. \*Authors listed alphabetically.
 
 **<u>Tollefson, J.</u>**, Frickel, S., Helgeson, J., and Gore, C. 2026. "Adapting to adaptation: Conceptual development in community resilience planning." Accepted for publication, *Ecology & Society*.
 
@@ -17,7 +18,6 @@ Please [contact me](/contact/) for a copy of any paper you may be interested in.
 - Society for the Study of Social Problems, Environment and Technology Division: Brent K. Marshall Award
 - Eastern Sociological Society: Candace Rogers Award - Honorable Mention
 - Spatial Structures in the Social Sciences, Brown University: Graduate Student Paper Prize
-
 
 [**<u>Tollefson, J.</u>**, Frickel, S., and Gore, C., and Helgeson, J.](/publications/2025_wires/) 2025. "Community resilience planning: What new methods reveal about the formation and transformation of a field." *WIREs Climate Change* 16(4): e70015.
 
@@ -41,31 +41,21 @@ Please [contact me](/contact/) for a copy of any paper you may be interested in.
 
 
 
-### Under review and submitted
-
-
-
-
-Demortain, D., Frickel, S., Beck, S., Gray, I., Grundmann, R., Hannud Abdo, A., Kinniburgh, F., Kitson, D., Matzner, N., Rea, C., **<u>Tollefson, J.</u>**, and Wetts, R. "Computational science and technology studies? Assembling STS theory-methods packages with computation." *R+R.*
-
-
-
 ### Manuscripts
-
 
 
 **<u>Tollefson, J.</u>** "The environmental dimensions of HOLC redlining decisions." *Working paper. Delivered at Population Association of America (Washington, DC. Apr. 10-13, 2025) and American Sociological Association (Chicago, IL. Aug. 8-12, 2025).*
 
 **<u>Tollefson, J.</u>** "Industrial geography and urban inequality formation in the early 20th century." *Working paper.*
 
+\*Chaves, R., **<u>Tollefson, J.</u>**, and \*Long, M. “New methods for historical research on social and environmental geography in US cities.” \*Student co-authors
+
 Frickel, S., Demortain, D., Beck, S., Gray, I., Grundmann, R., Hannud Abdo, A., Kinniburgh, F., Kitson, D., Matzner, N., Rea, C., **<u>Tollefson, J.</u>**, and Wetts, R. Environmental knowledge and politics. *In progress.*
 
-**<u>Tollefson, J.</u>** "Suburban development and agricultural land conversion: New landscapes of environmental health inequality." *In progress. Delivered at Pacific Sociological Association (Sacramento, CA. Apr. 7-9, 2022).*
+**<u>Tollefson, J.</u>** and Frickel, S. “STS methods for historical environmental justice research.” Invited chapter for *Common(s) in science and technology? Research-action in the SEEKCommons Network* (Murillo, L.F., Milia, M. and Bashir, I.B., eds.). 
 
 
-
-
-### Public scholarship
+### Public-facing writing
 
 
 <a target="_blank" href="https://dsl.richmond.edu/panorama/redlining/map/RI/Providence/context">**<u>Tollefson, J.</u>**</a> 2023. "Redlining and segregation in Providence, RI." Essay for *Mapping Inequality*. Richmond, VA: University of Richmond Digital Scholarship Lab.
