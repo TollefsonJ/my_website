@@ -8,7 +8,8 @@ layout: "simple"
 Please [contact me](/contact/) for a copy of any paper you may be interested in.
 
 ### Publications
-Demortain, D., Frickel, S., \*Beck, S., \*Gray, I., \*Grundmann, R., \*Hannud Abdo, A., \*Kinniburgh, F., \*Kitson, D., \*Matzner, N., \*Rea, C., \***<u>Tollefson, J.</u>**, and \*Wetts, R. "Computational science and technology studies? Assembling STS theory-methods packages with computation." Accepted for publication, *Science, Technology, & Human Values*. \*Authors listed alphabetically.
+Demortain, D., Frickel, S., \*Beck, S., \*Gray, I., \*Grundmann, R., \*Hannud Abdo, A., \*Kinniburgh, F., \*Kitson, D., \*Matzner, N., \*Rea, C., \***<u>Tollefson, J.</u>**, and \*Wetts, R. 2026. "Computational science and technology studies? Assembling STS theory-methods packages with computation." Accepted for publication, *Science, Technology, & Human Values*.  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\*Listed alphabetically
 
 **<u>Tollefson, J.</u>**, Frickel, S., Helgeson, J., and Gore, C. 2026. "Adapting to adaptation: Conceptual development in community resilience planning." Accepted for publication, *Ecology & Society*.
 
@@ -48,7 +49,8 @@ Demortain, D., Frickel, S., \*Beck, S., \*Gray, I., \*Grundmann, R., \*Hannud Ab
 
 **<u>Tollefson, J.</u>** "Industrial geography and urban inequality formation in the early 20th century." *Working paper.*
 
-\*Chaves, R., **<u>Tollefson, J.</u>**, and \*Long, M. “New methods for historical research on social and environmental geography in US cities.” \*Student co-authors
+\*Chaves, R., **<u>Tollefson, J.</u>**, and \*Long, M. “New methods for historical research on social and environmental geography in US cities.” *Working paper.*  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\*Masters student research assistants
 
 Frickel, S., Demortain, D., Beck, S., Gray, I., Grundmann, R., Hannud Abdo, A., Kinniburgh, F., Kitson, D., Matzner, N., Rea, C., **<u>Tollefson, J.</u>**, and Wetts, R. Environmental knowledge and politics. *In progress.*
 
