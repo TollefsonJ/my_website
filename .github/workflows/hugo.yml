@@ -52,6 +52,10 @@ jobs:
         uses: actions/configure-pages@v5
       - name: Install Node.js dependencies
         run: "[[ -f package-lock.json || -f npm-shrinkwrap.json ]] && npm ci || true"
+      # Any files still committed under public/ would otherwise survive the build
+      # and get re-published, even after their source content was deleted.
+      - name: Remove stale build output
+        run: rm -rf ./public ./resources/_gen
       - name: Build with Hugo
         env:
           HUGO_CACHEDIR: ${{ runner.temp }}/hugo_cache
@@ -60,6 +64,7 @@ jobs:
         run: |
           hugo \
             --gc \
+            --cleanDestinationDir \
             --minify \
             --baseURL "${{ steps.pages.outputs.base_url }}/"
       - name: Upload artifact
