@@ -3,7 +3,10 @@ none = "none"
 
 
 
-
+[[main]]
+name = "Energy & Urbanization↗"
+url = "http://localhost:1313//energy_urbanization/"
+weight = 100
 
 [[main]]
 name = "Research"
