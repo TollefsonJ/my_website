@@ -21,3 +21,21 @@ a.text-base.font-medium.text-gray-500.hover\:text-gray-900 {
   line-height: 1.2 !important;
 }
 
+/* Push back the point where the header menu collapses into the hamburger icon.
+   Tailwind's "md" breakpoint (853px) was too narrow for the full menu text,
+   so items wrapped onto two lines just before the hamburger took over.
+   Force the collapsed (hamburger) state until 1024px instead. */
+@media (min-width: 853px) and (max-width: 1125px) {
+  .main-menu nav.hidden.md\:flex {
+    display: none;
+  }
+
+  .main-menu div.flex.md\:hidden {
+    display: flex;
+  }
+
+  .main-menu div.-my-2.md\:hidden {
+    display: block;
+  }
+}
+
