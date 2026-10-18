@@ -49,10 +49,11 @@ Demortain, D., Frickel, S., \*Beck, S., \*Gray, I., \*Grundmann, R., \*Hannud Ab
 
 **<u>Tollefson, J.</u>** "Industrial geography and urban inequality formation in the early 20th century." *Working paper.*
 
-\*Chaves, R., **<u>Tollefson, J.</u>**, and \*Long, M. “New methods for historical research on social and environmental geography in US cities.” *Working paper.*  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\*Masters student research assistants
+**<u>Tollefson, J.</u>**, \*Chaves, R., and \*Long, M. “New methods for historical research on social and environmental geography in US cities.” *Working paper.*  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\*Master's student research assistants
 
-Frickel, S., Demortain, D., Beck, S., Gray, I., Grundmann, R., Hannud Abdo, A., Kinniburgh, F., Kitson, D., Matzner, N., Rea, C., **<u>Tollefson, J.</u>**, and Wetts, R. Environmental knowledge and politics. *In progress.*
+**<u>Tollefson, J.</u>**, \*Long, M., and \*Chaves, R. “Locating Lost Fossil Fuel Infrastructure in US cities.” *In progress.*  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\*Master's student research assistants
 
 **<u>Tollefson, J.</u>** and Frickel, S. “STS methods for historical environmental justice research.” Invited chapter for *Common(s) in science and technology? Research-action in the SEEKCommons Network* (Murillo, L.F., Milia, M. and Bashir, I.B., eds.). 
 
