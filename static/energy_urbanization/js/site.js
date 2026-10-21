@@ -3,8 +3,8 @@
    and footer on EVERY page at once.
    ========================================================== */
 const SITE = {
-  title: "Energy and Urbanization",                 // <- replace with your project name
-  tagline: "A short line describing the project",
+  title: "Energetic Urbanization",                 // <- replace with your project name
+  tagline: "",
 
   // Menu items: label shown, and the page it links to
   menu: [

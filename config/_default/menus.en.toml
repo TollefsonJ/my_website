@@ -3,10 +3,6 @@ none = "none"
 
 
 
-[[main]]
-name = "Energy & Urbanization↗"
-url = "http://www.jonathantollefson.com/energy_urbanization/"
-weight = 100
 
 [[main]]
 name = "Research"
