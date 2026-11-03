@@ -2,3 +2,4 @@
 /resources/_gen/
 /static/energy_urbanization/instructions.md
 /static/energy_urbanization/run_local_server.bat
+.claude/settings.local.json
